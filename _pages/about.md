@@ -6,7 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
 ## About
 I am a researcher exploring the boundaries between artificial and human intelligence, and the founder of the Çukurova NLP Research Group. My earlier studies in clustering, fuzzy logic, and biosignal processing gradually led me to a deeper question: how does language shape thought, and can a machine ever truly understand it? Since 2015, my work has focused on Natural Language Processing — where data meets meaning, and algorithms begin to mirror fragments of human mind.
 
@@ -34,7 +33,6 @@ Below are my published novels, exploring the boundaries between artificial world
   <div class="book-item">
     <img src="https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1659616916i/61855090.jpg" alt="Yapay Dünya Kolonisi - Yapay Zekanın Bilince Evrimi" class="book-cover">
     <p>
-      <em>Yapay Dünya Kolonisi - Yapay Zekanın Bilince Evrimi</em><br>
       <a href="https://www.goodreads.com/book/show/61855090-yapay-d-nya-kolonisi" target="_blank">Goodreads</a> - 
       <a href="https://1000kitap.com/kitap/yapay-dunya-kolonisi--338905" target="_blank">1000kitap</a>
     </p>
@@ -43,7 +41,6 @@ Below are my published novels, exploring the boundaries between artificial world
   <div class="book-item">
   <img src="https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1745504070i/230277672.jpg" alt="Artificial World Colony - The First Journey" class="book-cover">
   <p>
-    <em>Artificial World Colony - The First Journey</em><br>
     <a href="https://www.goodreads.com/book/show/230277672-artificial-world-colony" target="_blank">Goodreads</a>
   </p>
   </div>
@@ -51,7 +48,6 @@ Below are my published novels, exploring the boundaries between artificial world
   <div class="book-item">
   <img src="https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1745272178i/231722641.jpg" alt="Artificial World Colony - The Blue Collapse" class="book-cover">
   <p>
-    <em>Artificial World Colony - The Blue Collapse</em><br>
     <a href="https://www.goodreads.com/book/show/231722641-artificial-world-colony" target="_blank">Goodreads</a>
   </p>
   </div>
@@ -70,7 +66,7 @@ Below are my published novels, exploring the boundaries between artificial world
   flex: 1 1 200px;
 }
 .book-cover {
-  width: 180px;
+  width: 120px;
   border-radius: 6px;
   box-shadow: 0 2px 6px rgba(0,0,0,0.2);
   transition: transform 0.2s ease;
