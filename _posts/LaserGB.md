@@ -3,7 +3,7 @@ layout: post
 title: "Laser-Guided Bouyoucos: Early Prototype of the Digital Soil Texture Analyzer"
 date: 2020-10-20
 categories: projects
-tags: [soil analysis, laser, LDR sensors, machine learning, dataset]
+tags: PROJECT
 excerpt: "An early experimental system using laser and LDR sensors for soil texture estimation, forming the foundation for the TÜBİTAK Digital Soil Texture Analyzer project."
 header: 
   image: /images/projects/laser-bouyoucos.jpg
