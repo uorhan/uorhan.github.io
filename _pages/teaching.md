@@ -14,10 +14,10 @@ Below you can find a list of the courses I currently teach and have taught in th
 * Advanced Machine Learning  
 
 ## Undergraduate Courses
-* [Discrete Mathematics](/teaching/discrete-mathematics)  
-* [Introduction to Machine Learning](/teaching/intro-to-ml)  
-* [Natural Language Processing](/teaching/nlp)  
-* [Theory of Computation](/teaching/theory-of-computation)  
+* [Discrete Mathematics](/teaching/DM)  
+* [Introduction to Machine Learning](/teaching/I2ML)  
+* [Natural Language Processing](/teaching/NLP)  
+* [Theory of Computation](/teaching/ToC)  
 
 ## Past Courses
 * Fuzzy Logic  
