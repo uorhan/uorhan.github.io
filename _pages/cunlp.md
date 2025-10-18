@@ -64,7 +64,33 @@ Collaborations with researchers and groups sharing similar interests are also hi
 - **Elif Gülfidan Dayıoğlu (Ph.D.)** – Worked on open-ended exam evaluation using SemSpace vectors and deep learning  
 
 
+## Resources and Tools
+
+- **CU-CE** – A Large Language Model (LLM) based chatbot prepared for Çukurova University Computer Engineering Department students.  
+  🔗 [https://t.me/CU_CengBOT](https://t.me/CU_CengBOT)
+
+- **Turkish Corpus for Morphological Disambiguation**  
+  If you use this corpus in your publication, please cite:  
+  *U. Orhan, E. Arslan. "Learning Word-Vector Quantization: A Case Study in Morphological Disambiguation," Transactions on Asian and Low-Resource Language Information Processing, 19(5), 72, 2020.*  
+  🔗 [Download Dataset](https://ceng.cu.edu.tr/uorhan/dosyalar/TaggerAppDB.zip)
+
+- **Learning Word-Vector Quantization (in MATLAB)**  
+  If you use this code or dataset in your publication, please cite the same paper as above.  
+  🔗 [Download Code](https://ceng.cu.edu.tr/uorhan/dosyalar/LWQ.zip)
+
+- **CU-NLP Dataset for Automatic Short Answer Grading**  
+  If you use this dataset in your publication, please cite:  
+  *C.N. Tulu, O. Ozkaya, U. Orhan. "Short Answer Grading with SemSpace Sense Vectors and MaLSTM," IEEE Access, 9, 19270–19280, 2021.*  
+  🔗 [Download Dataset](https://ceng.cu.edu.tr/uorhan/dosyalar/CU-NLP.csv)
+
+- **Synset Vectors Computed by Generalized SemSpace**  
+  If you use this dataset in your publication, please cite:  
+  *U. Orhan, E.G. Tosun, O. Ozkaya. "Intent Detection Using Contextualized Deep SemSpace," Arabian Journal for Science and Engineering, 2022, [https://doi.org/10.1007/s13369-022-07016-9](https://doi.org/10.1007/s13369-022-07016-9).*  
+  🔗 [Download Dataset](https://ceng.cu.edu.tr/uorhan/dosyalar/SynsetVectors.zip)
+
 ## Join Us
 
 We are looking for **motivated master’s and Ph.D. students** who are passionate about **Artificial Intelligence** and **Natural Language Processing**.  
-For open positions and scholarship opportunities, please visit [this page](/link/to/join/us).
+If you are interested in joining our research group or collaborating with us, please **contact Dr. Umut Orhan directly via email** at [uorhan@cu.edu.tr](mailto:uorhan@cu.edu.tr).  
+
+Undergraduate students with strong interest in **Large Language Models (LLMs)**, **reasoning**, or **hallucination detection** are also welcome to get involved in our ongoing projects.  
