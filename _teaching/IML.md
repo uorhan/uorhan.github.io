@@ -2,7 +2,7 @@
 title: "Introduction to Machine Learning"
 collection: teaching
 type: "Undergraduate Course"
-permalink: /teaching/intro-to-ml
+permalink: /teaching/IML
 venue: "CuCEng"
 year: 2025-1-1
 ---
@@ -53,7 +53,7 @@ It is expected that the students know programming.
 ## Resources
 Below you can find past exam papers.
 <ul>
-  {% assign files = site.static_files | where_exp: "file", "file.path contains '/assets/exams/intro-to-ml/'" %}
+  {% assign files = site.static_files | where_exp: "file", "file.path contains '/assets/exams/IML/'" %}
   {% for file in files %}
     {% if file.extname == ".pdf" %}
       <li><a href="{{ file.path | relative_url }}">{{ file.name }}</a></li>
