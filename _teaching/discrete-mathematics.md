@@ -3,11 +3,6 @@ title: "Discrete Mathematics"
 collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/discrete-mathematics
-layout: single
-author_profile: true
-show_author_profile: false
-share: false
-
 venue: "CuCEng"
 date: 2025
 location: "Adana, Turkiye"
