@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/discrete-mathematics
 venue: "CuCEng"
-date: 2025
+date: 2025-1-1
 location: "Adana, Turkiye"
 ---
 
