@@ -4,22 +4,9 @@ permalink: /cunlp/
 title: "Cukurova NLP (CuNLP) Research Group"
 author_profile: true
 ---
-
-## About Us
-
 **Cukurova NLP (CuNLP)** is a Natural Language Processing research group operating within the Department of Computer Engineering at Cukurova University.  
 
 Our group focuses primarily on **Turkish NLP**, developing innovative solutions at the intersection of **artificial intelligence** and **linguistics**.
-
-## Research Areas
-
-Our main research areas include:
-
-* Large Language Models (LLMs) for Turkish  
-* Text Classification and Sentiment Analysis  
-* Clinical Text Processing and NLP in Healthcare  
-* Question Answering Systems and Chatbots  
-* Root Cause Analysis (Lemmatization) and Morphological Analysis  
 
 ## Current Focus
 
@@ -85,7 +72,7 @@ Collaborations with researchers and groups sharing similar interests are also hi
 
 - **Synset Vectors Computed by Generalized SemSpace**  
   If you use this dataset in your publication, please cite:  
-  *U. Orhan, E.G. Tosun, O. Ozkaya. "Intent Detection Using Contextualized Deep SemSpace," Arabian Journal for Science and Engineering, 2022, [https://doi.org/10.1007/s13369-022-07016-9](https://doi.org/10.1007/s13369-022-07016-9).*  
+  *U. Orhan, E.G. Tosun, O. Ozkaya. "Intent Detection Using Contextualized Deep SemSpace," Arabian Journal for Science and Engineering, Volume 48, pages 2009–2020, 2023.*  
   🔗 [Download Dataset](https://ceng.cu.edu.tr/uorhan/dosyalar/SynsetVectors.zip)
 
 ## Join Us
