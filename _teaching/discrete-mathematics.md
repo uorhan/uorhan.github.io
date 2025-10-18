@@ -43,13 +43,8 @@ None
 | 15 | Review for Final Exam | Chapters 1–10 |
 | — | **Final Exam** | — |
 
-## Announcements
-All announcements regarding exams, tasks, and deadlines will be shared during the semester.
-
 ## Resources
-
 Below you can find past exam papers.
-
 <ul>
   {% assign files = site.static_files | where_exp: "file", "file.path contains '/assets/exams/discrete-mathematics/'" %}
   {% for file in files %}
