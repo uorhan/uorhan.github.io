@@ -2,7 +2,7 @@
 title: "Discrete Mathematics"
 collection: teaching
 type: "Undergraduate Course"
-permalink: /teaching/discrete-mathematics
+permalink: /teaching/DiM
 venue: "CuCEng"
 date: 2025-1-1
 ---
@@ -45,7 +45,7 @@ None
 ## Resources
 Below you can find past exam papers.
 <ul>
-  {% assign files = site.static_files | where_exp: "file", "file.path contains '/assets/exams/discrete-mathematics/'" %}
+  {% assign files = site.static_files | where_exp: "file", "file.path contains '/assets/exams/DiM/'" %}
   {% for file in files %}
     {% if file.extname == ".pdf" %}
       <li><a href="{{ file.path | relative_url }}">{{ file.name }}</a></li>
