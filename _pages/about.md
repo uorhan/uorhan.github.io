@@ -13,14 +13,12 @@ I am a researcher exploring the boundaries between artificial and human intellig
 
 ## Publications
 My publications cover a wide spectrum of research in Artificial Intelligence and Natural Language Processing.  
-You can explore my full list of works on my  
-[Google Scholar profile](https://scholar.google.com/citations?hl=en&user=eCnqIbYAAAAJ&sortby=pubdate).
+You can explore my full list of works on my <a href="https://scholar.google.com/citations?hl=en&user=eCnqIbYAAAAJ&sortby=pubdate" target="_blank">Google Scholar profile</a>.
 
 ---
 
 ## Thesis Students
-You can find information about my current and past graduate students through the official  
-[YÖK Thesis Database](https://tez.yok.gov.tr/UlusalTezMerkezi/).
+You can find information about my current and past graduate students through the official <a href="https://tez.yok.gov.tr/UlusalTezMerkezi/" target="_blank">National Thesis Database</a>
 
 ---
 
