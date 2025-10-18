@@ -23,7 +23,7 @@ repository               : "uorhan/uorhan.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/umut.jpg"
+  avatar           : "/images/UmutOrhan.jpg"
   name             : "-"
   pronouns         : # he/him"  
   bio              : "Short biography for the left-hand sidebar"
