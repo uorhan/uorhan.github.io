@@ -50,7 +50,7 @@ Below are my published novels, exploring the boundaries between artificial world
 }
 .book-item {
   text-align: center;
-  flex: 1 1 100px;
+  flex: 1 1 10px;
 }
 .book-cover {
   height: 120px;
