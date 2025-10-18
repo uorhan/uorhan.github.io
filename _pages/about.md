@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: # ""
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -32,21 +32,28 @@ Below are my published novels, exploring the boundaries between artificial world
 <div class="book-gallery">
 
   <div class="book-item">
-    <a href="https://1000kitap.com/kitap/yapay-dunya-kolonisi--123456" target="_blank">
-      <img src="https://link-to-cover1.jpg" alt="Artificial World Colony" class="book-cover">
-    </a>
-    <p><em>Artificial World Colony</em><br>
-      <a href="https://www.goodreads.com/book/show/123456" target="_blank">Goodreads</a>
+    <img src="https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1659616916i/61855090.jpg" alt="Yapay Dünya Kolonisi - Yapay Zekanın Bilince Evrimi" class="book-cover">
+    <p>
+      <em>Yapay Dünya Kolonisi - Yapay Zekanın Bilince Evrimi</em><br>
+      <a href="https://www.goodreads.com/book/show/61855090-yapay-d-nya-kolonisi" target="_blank">Goodreads</a> - 
+      <a href="https://1000kitap.com/kitap/yapay-dunya-kolonisi--338905" target="_blank">1000kitap</a>
     </p>
+  </div>
+  
+  <div class="book-item">
+  <img src="https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1745504070i/230277672.jpg" alt="Artificial World Colony - The First Journey" class="book-cover">
+  <p>
+    <em>Artificial World Colony - The First Journey</em><br>
+    <a href="https://www.goodreads.com/book/show/230277672-artificial-world-colony" target="_blank">Goodreads</a>
+  </p>
   </div>
 
   <div class="book-item">
-    <a href="https://1000kitap.com/kitap/mavi-cokus--654321" target="_blank">
-      <img src="https://link-to-cover2.jpg" alt="The Blue Collapse" class="book-cover">
-    </a>
-    <p><em>The Blue Collapse</em><br>
-      <a href="https://www.goodreads.com/book/show/654321" target="_blank">Goodreads</a>
-    </p>
+  <img src="https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1745272178i/231722641.jpg" alt="Artificial World Colony - The Blue Collapse" class="book-cover">
+  <p>
+    <em>Artificial World Colony - The Blue Collapse</em><br>
+    <a href="https://www.goodreads.com/book/show/231722641-artificial-world-colony" target="_blank">Goodreads</a>
+  </p>
   </div>
 
 </div>
