@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/NLP
 venue: "CuCEng"
-year: 2025-1-1
+date: 2025-1-1
 ---
 
 ### Course Objectives
