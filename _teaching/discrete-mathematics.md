@@ -9,7 +9,7 @@ show_author_profile: false
 share: false
 
 venue: "CuCEng"
-date: #
+date: 2025
 location: "Adana, Turkiye"
 ---
 
