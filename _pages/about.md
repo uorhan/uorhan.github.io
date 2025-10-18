@@ -45,15 +45,15 @@ Below are my published novels, exploring the boundaries between artificial world
 .book-gallery {
   display: flex;
   flex-wrap: wrap;
-  gap: 20px;
+  gap: 10px;
   margin-top: 15px;
 }
 .book-item {
   text-align: center;
-  flex: 1 1 200px;
+  flex: 1 1 100px;
 }
 .book-cover {
-  height: 180px;
+  height: 120px;
   border-radius: 6px;
   box-shadow: 0 2px 6px rgba(0,0,0,0.2);
   transition: transform 0.2s ease;
