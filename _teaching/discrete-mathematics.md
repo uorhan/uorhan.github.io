@@ -3,6 +3,10 @@ title: "Discrete Mathematics"
 collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/discrete-mathematics
+layout: single
+author_profile: true
+show_author_profile: false
+share: false
 ---
 
 ## Course Objectives
