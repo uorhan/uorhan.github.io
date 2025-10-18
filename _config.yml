@@ -35,7 +35,7 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=eCnqIbYAAAAJ"
+  googlescholar    : # "https://scholar.google.com/citations?user=eCnqIbYAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : "http://orcid.org/0000-0003-1882-6567"
@@ -48,7 +48,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : # Username
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -58,12 +58,12 @@ author:
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
-  goodreads        : "22646416.Umut_Orhan" # Username
+  goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "umut-orhan-8234ab74" # Username
+  linkedin         : # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -135,7 +135,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               :  # &twitter
 facebook:
   username               :
   app_id                 :
