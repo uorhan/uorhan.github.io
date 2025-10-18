@@ -26,22 +26,22 @@ author:
   avatar           : "UmutOrhan.jpg"
   name             : "-"
   pronouns         : # he/him"  
-  bio              : "I am an academic researcher specializing in Artificial Intelligence and Machine Learning, and the founder of the Cukurova NLP research group. While my background includes clustering, fuzzy logic and biosignal processing, my core research has focused on Natural Language Processing since 2015. Our group currently develops NLP-based data analysis solutions and is exploring new project inspired by my sci-fi novel series, Artificial World Colony."
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "I am an academic researcher specializing in Artificial Intelligence and Machine Learning, and the founder of the Cukurova NLP research group. While my background includes clustering, fuzzy logic and biosignal processing, my core research has focused on Natural Language Processing since 2015. Our group currently works on several NLP-based projects."
+  location         : "Adana - Turkiye"
+  employer         : "Cukurova University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "uorhan@cu.edu.tr"
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=eCnqIbYAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0000-0003-1882-6567"
   semantic         : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Umut-Orhan-3"
   scopus           : # URL
 
   # Repositories and software development
