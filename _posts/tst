@@ -5,7 +5,7 @@ date: 2020-10-20
 categories: projects
 tags: [soil analysis, laser, LDR sensors, machine learning, dataset]
 excerpt: "An early experimental system using laser and LDR sensors for soil texture estimation, forming the foundation for the TÜBİTAK Digital Soil Texture Analyzer project."
-header:
+header: 
   image: /images/projects/laser-bouyoucos.jpg
   caption: "Prototype of the laser-guided Bouyoucos device (a–b)"
 ---
