@@ -17,8 +17,5 @@ main:
   - title: "Cukurova NLP"
     url: /cunlp/
         
-  - title: "CV"
-    url: /cv-json/
-        
   - title: "Blog Posts"
     url: /year-archive/
