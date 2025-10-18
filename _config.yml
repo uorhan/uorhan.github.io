@@ -23,10 +23,10 @@ repository               : "uorhan/uorhan.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/UmutOrhan.jpg"
+  avatar           : "UmutOrhan.jpg"
   name             : "-"
   pronouns         : # he/him"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "I am an academic researcher specializing in Artificial Intelligence and Machine Learning, and the founder of the Cukurova NLP research group. While my background includes clustering, fuzzy logic and biosignal processing, my core research has focused on Natural Language Processing since 2015. Our group currently develops NLP-based data analysis solutions and is exploring new project inspired by my sci-fi novel series, Artificial World Colony."
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
