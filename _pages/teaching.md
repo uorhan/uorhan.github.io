@@ -5,7 +5,7 @@ title: "Teaching"
 author_profile: true
 ---
 
-Below you can find a list of the courses I currently teach and have taught in the past at Çukurova University.
+Below you can find a list of the courses I currently teach and have taught in the past.
 
 ## Graduate Courses
 * Cluster Analysis  
