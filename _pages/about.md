@@ -30,26 +30,16 @@ Below are my published novels, exploring the boundaries between artificial world
 
 <div class="book-gallery">
 
-  <div class="book-item">
-    <img src="https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1659616916i/61855090.jpg" alt="Yapay Dünya Kolonisi - Yapay Zekanın Bilince Evrimi" class="book-cover">
-    <p>
-      <a href="https://www.goodreads.com/book/show/61855090-yapay-d-nya-kolonisi" target="_blank">Goodreads</a> - 
-      <a href="https://1000kitap.com/kitap/yapay-dunya-kolonisi--338905" target="_blank">1000kitap</a>
-    </p>
+  <div class="book-item"><a href="https://1000kitap.com/kitap/yapay-dunya-kolonisi--338905" target="_blank">
+    <img src="https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1659616916i/61855090.jpg" alt="Yapay Dünya Kolonisi - Yapay Zekanın Bilince Evrimi" class="book-cover"></a>
   </div>
   
-  <div class="book-item">
-  <img src="https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1745504070i/230277672.jpg" alt="Artificial World Colony - The First Journey" class="book-cover">
-  <p>
-    <a href="https://www.goodreads.com/book/show/230277672-artificial-world-colony" target="_blank">Goodreads</a>
-  </p>
+  <div class="book-item"><a href="https://www.goodreads.com/book/show/230277672-artificial-world-colony" target="_blank">
+  <img src="https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1745504070i/230277672.jpg" alt="Artificial World Colony - The First Journey" class="book-cover"></a>
   </div>
 
-  <div class="book-item">
-  <img src="https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1745272178i/231722641.jpg" alt="Artificial World Colony - The Blue Collapse" class="book-cover">
-  <p>
-    <a href="https://www.goodreads.com/book/show/231722641-artificial-world-colony" target="_blank">Goodreads</a>
-  </p>
+  <div class="book-item"><a href="https://www.goodreads.com/book/show/231722641-artificial-world-colony" target="_blank">
+  <img src="https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1745272178i/231722641.jpg" alt="Artificial World Colony - The Blue Collapse" class="book-cover"></a>
   </div>
 
 </div>
