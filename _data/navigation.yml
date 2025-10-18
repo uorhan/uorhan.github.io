@@ -15,7 +15,10 @@ main:
     url: /teaching/    
     
   - title: "Cukurova NLP"
-    url: /cunlp/
+    url: /markdown/
+        
+  - title: "CV"
+    url: /cv-json/
         
   - title: "Blog Posts"
     url: /year-archive/
