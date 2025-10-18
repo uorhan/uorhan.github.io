@@ -2,7 +2,7 @@
 title: "Natural Language Processing"
 collection: teaching
 type: "Undergraduate Course"
-permalink: /teaching/nlp
+permalink: /teaching/NLP
 venue: "CuCEng"
 year: 2025-1-1
 ---
@@ -42,7 +42,7 @@ There is no formal prerequisite; however, taking the Theory of Computation (Auto
 ## Resources
 Below you can find past exam papers.
 <ul>
-  {% assign files = site.static_files | where_exp: "file", "file.path contains '/assets/exams/nlp/'" %}
+  {% assign files = site.static_files | where_exp: "file", "file.path contains '/assets/exams/NLP/'" %}
   {% for file in files %}
     {% if file.extname == ".pdf" %}
       <li><a href="{{ file.path | relative_url }}">{{ file.name }}</a></li>
