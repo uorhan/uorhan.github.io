@@ -7,6 +7,10 @@ layout: single
 author_profile: true
 show_author_profile: false
 share: false
+
+venue: "CuCEng"
+date: #
+location: "Adana, Turkiye"
 ---
 
 ## Course Objectives
