@@ -9,7 +9,7 @@ redirect_from:
 
 About
 ======
-I am an academic researcher specializing in Artificial Intelligence and Machine Learning, and the founder of the Cukurova NLP research group. While my background includes clustering, fuzzy logic and biosignal processing, my core research has focused on Natural Language Processing since 2015. Our group currently works on several NLP-based projects.
+I am a researcher exploring the boundaries between artificial and human intelligence, and the founder of the Çukurova NLP Research Group. My earlier studies in clustering, fuzzy logic, and biosignal processing gradually led me to a deeper question: how does language shape thought, and can a machine ever truly understand it? Since 2015, my work has focused on Natural Language Processing — where data meets meaning, and algorithms begin to mirror fragments of human mind.
 
 aaaaa
 ======
