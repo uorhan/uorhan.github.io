@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/IML
 venue: "CuCEng"
-year: 2025-1-1
+year: 2025-01-02
 ---
 
 ### Course Objectives
