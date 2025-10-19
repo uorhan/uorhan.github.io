@@ -59,21 +59,21 @@ Collaborations with researchers and groups sharing similar interests are also hi
 - **Turkish Corpus for Morphological Disambiguation**  
   If you use this corpus in your publication, please cite:  
   *U. Orhan, E. Arslan. "Learning Word-Vector Quantization: A Case Study in Morphological Disambiguation," Transactions on Asian and Low-Resource Language Information Processing, 19(5), 72, 2020.*  
-  🔗 [Download Dataset](https://ceng.cu.edu.tr/uorhan/dosyalar/TaggerAppDB.zip)
+  🔗 [Download Dataset](files/TaggerAppDB.zip)
 
 - **Learning Word-Vector Quantization (in MATLAB)**  
   If you use this code or dataset in your publication, please cite the same paper as above.  
-  🔗 [Download Code](https://ceng.cu.edu.tr/uorhan/dosyalar/LWQ.zip)
+  🔗 [Download Code](files/LWQ.zip)
 
 - **CU-NLP Dataset for Automatic Short Answer Grading**  
   If you use this dataset in your publication, please cite:  
   *C.N. Tulu, O. Ozkaya, U. Orhan. "Short Answer Grading with SemSpace Sense Vectors and MaLSTM," IEEE Access, 9, 19270–19280, 2021.*  
-  🔗 [Download Dataset](https://ceng.cu.edu.tr/uorhan/dosyalar/CU-NLP.csv)
+  🔗 [Download Dataset](files/CU-NLP.csv)
 
 - **Synset Vectors Computed by Generalized SemSpace**  
   If you use this dataset in your publication, please cite:  
   *U. Orhan, E.G. Tosun, O. Ozkaya. "Intent Detection Using Contextualized Deep SemSpace," Arabian Journal for Science and Engineering, Volume 48, pages 2009–2020, 2023.*  
-  🔗 [Download Dataset](https://ceng.cu.edu.tr/uorhan/dosyalar/SynsetVectors.zip)
+  🔗 [Download Dataset](files/SynsetVectors.zip)
 
 ## Join Us
 
