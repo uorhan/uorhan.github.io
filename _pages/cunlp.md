@@ -73,7 +73,7 @@ Collaborations with researchers and groups sharing similar interests are also hi
 - **Synset Vectors Computed by Generalized SemSpace**  
   If you use this dataset in your publication, please cite:  
   *U. Orhan, E.G. Tosun, O. Ozkaya. "Intent Detection Using Contextualized Deep SemSpace," Arabian Journal for Science and Engineering, Volume 48, pages 2009–2020, 2023.*  
-  🔗 [Download Dataset](files/SynsetVectors.zip)
+  🔗 [Download Dataset](https://ceng.cu.edu.tr/uorhan/dosyalar/SynsetVectors.zip)
 
 ## Join Us
 
