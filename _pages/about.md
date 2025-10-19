@@ -11,8 +11,12 @@ I am a researcher exploring the boundaries between artificial and human intellig
 ---
 
 ## Publications
-My publications cover a wide spectrum of research in Artificial Intelligence and Natural Language Processing.  
-You can explore my full list of works on my <a href="https://scholar.google.com/citations?hl=en&user=eCnqIbYAAAAJ&sortby=pubdate" target="_blank">Google Scholar profile</a>.
+My publications cover a wide spectrum of research in Artificial Intelligence and Natural Language Processing. You can explore my full list of works on my <a href="https://scholar.google.com/citations?hl=en&user=eCnqIbYAAAAJ&sortby=pubdate" target="_blank">Google Scholar profile</a>.
+
+---
+
+## Research Notes
+Curious about my projects, research and technical notes, or behind-the-scenes reflections on research and teaching? Visit the [Research Notes](/BlogPost) section, a place where I occasionally share insights, experiments, and ideas that don’t always fit into formal publications but often spark new ones.
 
 ---
 
@@ -22,43 +26,4 @@ You can find information about my current and past graduate students through the
 ---
 
 ## Beyond Science
-I’ve found a way to bring together my passions for science, art, and imagination — by writing science fiction.  
-Below are my published novels, exploring the boundaries between artificial worlds and human consciousness.
-
-<div class="book-gallery">
-
-  <div class="book-item"><a href="https://1000kitap.com/kitap/yapay-dunya-kolonisi--338905" target="_blank">
-    <img src="https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1659616916i/61855090.jpg" alt="Yapay Dünya Kolonisi - Yapay Zekanın Bilince Evrimi" class="book-cover"></a>
-  </div>
-  
-  <div class="book-item"><a href="https://www.goodreads.com/book/show/230277672-artificial-world-colony" target="_blank">
-  <img src="https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1745504070i/230277672.jpg" alt="Artificial World Colony - The First Journey" class="book-cover"></a>
-  </div>
-
-  <div class="book-item"><a href="https://www.goodreads.com/book/show/231722641-artificial-world-colony" target="_blank">
-  <img src="https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1745272178i/231722641.jpg" alt="Artificial World Colony - The Blue Collapse" class="book-cover"></a>
-  </div>
-
-</div>
-
-<style>
-.book-gallery {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 10px;
-  margin-top: 15px;
-}
-.book-item {
-  text-align: center;
-  flex: 1 1 10px;
-}
-.book-cover {
-  height: 120px;
-  border-radius: 6px;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.2);
-  transition: transform 0.2s ease;
-}
-.book-cover:hover {
-  transform: scale(1.05);
-}
-</style>
+I’ve found a way to merge my passions for science, art, and imagination: writing science fiction. If you’re curious about this creative side, your keyword is **Artificial World Colony**.
