@@ -16,7 +16,7 @@ My publications cover a wide spectrum of research in Artificial Intelligence and
 ---
 
 ## Research Notes
-Curious about my projects, research and technical notes, or behind-the-scenes reflections on research and teaching? Visit the [Research Notes](/BlogPost) section, a place where I occasionally share insights, experiments, and ideas that don’t always fit into formal publications but often spark new ones.
+Curious about my projects, research and technical notes, or behind-the-scenes reflections on research and teaching? Visit the [Research Notes](/year-archive/) section, a place where I occasionally share insights, experiments, and ideas that don’t always fit into formal publications but often spark new ones.
 
 ---
 
