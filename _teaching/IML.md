@@ -52,11 +52,12 @@ It is expected that the students know programming.
 
 ## Resources
 Below you can find past exam papers.
-<ul>
+<p style="line-height: 1.8;">
   {% assign files = site.static_files | where_exp: "file", "file.path contains '/assets/exams/IML/'" %}
-  {% for file in files %}
-    {% if file.extname == ".pdf" %}
-      <li><a href="{{ file.path | relative_url }}">{{ file.name }}</a></li>
-    {% endif %}
+  {% assign pdf_files = files | where_exp: "file", "file.extname == '.pdf'" %}
+
+  {% for file in pdf_files %}
+    <a href="{{ file.path | relative_url }}">{{ file.name | downcase }}</a>
+    {% unless forloop.last %} | {% endunless %}
   {% endfor %}
-</ul>
+</p>
