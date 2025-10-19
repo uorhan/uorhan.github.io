@@ -14,7 +14,15 @@
 <link rel="icon" href="/images/favicon.ico"/>
 <meta name="theme-color" content="#ffffff"/>
 
+<!-- Fix for edge-to-edge text on blog layout -->
 <style>
+  .layout--blog .page__content {
+    max-width: 900px;        /* yazı alanını ortala */
+    margin: 0 auto;          /* ortalama */
+    padding: 0 1.5rem;       /* sağ-sol boşluk */
+    line-height: 1.7;        /* okuma konforu */
+  }
+
   .author__avatar img {
   border-radius: 0 !important;
   width: 100% !important;
