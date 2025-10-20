@@ -18,10 +18,3 @@ Below you can find a list of the courses I currently teach and have taught in th
 * [Introduction to Machine Learning](/teaching/IML) (SPRING) [Details](https://ebs.cu.edu.tr/En/Course/Information/663673) 
 * [Natural Language Processing](/teaching/NLP) (FALL) [Details](https://ebs.cu.edu.tr/En/Course/Information/663655) 
 * [Theory of Computation](/teaching/ToC) (FALL) [Details](https://ebs.cu.edu.tr/En/Course/Information/663587)
-
-## Past Courses
-* Fuzzy Logic  
-* MATLAB Programming  
-* Operating Systems  
-* Image Processing  
-* Programming Languages I  
