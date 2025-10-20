@@ -15,6 +15,11 @@ My publications cover a wide spectrum of research in Artificial Intelligence and
 
 ---
 
+## Teaching
+Interested in my current courses? Explore the [**Teaching**](/teaching/) section.
+
+---
+
 ## Research Notes
 Curious about my projects, research and technical notes, or behind-the-scenes reflections on research and teaching? Visit the [Research Notes](/year-archive/) section, a place where I occasionally share insights, experiments, and ideas that don’t always fit into formal publications but often spark new ones.
 
