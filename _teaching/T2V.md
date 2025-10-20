@@ -1,7 +1,10 @@
 ---
 title: Text Vectorization (PhD Level)
-layout: course
-permalink: /courses/text-vectorization/
+collection: teaching
+type: "Undergraduate Course"
+permalink: /teaching/T2V
+venue: "CuCEng"
+date: 2025-1-1
 ---
 
 ## Course Title
