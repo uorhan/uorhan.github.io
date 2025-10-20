@@ -5,7 +5,7 @@ title: "Teaching"
 author_profile: true
 ---
 
-Below you can find a list of the courses I currently teach and have taught in the past.
+Below you can find a list of the courses I currently teach.
 
 ## Graduate Courses
 * PhD - [Text Vectorization](/teaching/T2V) (SPRING) [Details](https://ebs.cu.edu.tr/En/Course/Information/663694) 
