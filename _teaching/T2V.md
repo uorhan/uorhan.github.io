@@ -1,20 +1,14 @@
 ---
-title: "Discrete Mathematics"
-collection: teaching
-type: "Undergraduate Course"
-permalink: /teaching/DiM
-venue: "CuCEng"
-date: 2025-1-1
----
-
----
 title: Text Vectorization (PhD Level)
-layout: teaching
-permalink: /teaching/T2V
+layout: course
+permalink: /courses/text-vectorization/
 ---
 
 ## Course Title
-**Text Vectorization** Ph.D. (Doctoral Course) - SPRING Semestr
+**Text Vectorization**
+
+## Level
+Ph.D. (Doctoral Course)
 
 ## Course Objective
 By the end of this course, students will understand the theoretical foundations behind transforming textual data into numerical representations that can be processed by machine learning models.  
@@ -105,4 +99,59 @@ Starting from classical Vector Space Models and TF-IDF, the course explores a wi
 
 ### **Week 10: Contextual Models — BERT Foundations**
 - **Topic:** BERT architecture, pre-training objectives (MLM and NSP), embedding structure, and fine-tuning concept.  
-- **Preparation:** Devlin
+- **Preparation:** Devlin et al. (2019), *BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding.*  
+- **Method:** Lecture and code examples.  
+- **Preparation for Week 11:** Teams prepare small fine-tuning experiments for their BERT-based task.
+
+---
+
+### **Week 11: Application Presentation 3 — BERT-based Embeddings**
+- **Scope:** Each team presents a **BERT-based application** (e.g., text classification, STS, or NLI) demonstrating contextual embeddings in practice.  
+- **Deliverables:** Code notebook, evaluation metrics, error analysis, and discussion.  
+- **Method:** Student presentations only (no new lecture content).
+
+---
+
+### **Week 12: Positional Encoding in Transformers**
+- **Topic:**  
+  - Learned Absolute Positional Encoding (APE): *BERT, GPT-2*  
+  - Rotary Positional Encoding (RoPE): *LLaMA, Qwen, Mistral, DeepSeek*  
+  - Relative Positional Encoding: *T5 and successors*  
+  - How positional encodings interact with token embeddings in Transformer layers.  
+- **Preparation:**  
+  - Shaw et al. (2018), *Self-Attention with Relative Position Representations*  
+  - Su et al. (2021), *RoFormer: Enhanced Transformer with Rotary Position Embedding*  
+- **Method:** Lecture, equation-level explanation, visualization demo.
+
+---
+
+### **Week 13: Transformer Architectures and Vector Representations**
+- **Topic:**  
+  - Encoder-only (e.g., BERT, RoBERTa)  
+  - Decoder-only (e.g., GPT family)  
+  - Encoder-Decoder (e.g., T5, BART)  
+  - Comparative discussion of how each architecture builds and uses embedding vectors.  
+- **Preparation:**  
+  - Vaswani et al. (2017), *Attention Is All You Need*  
+  - Raffel et al. (2020), *Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer (T5)*  
+- **Method:** Lecture, comparative diagrams, concept mapping.
+
+---
+
+### **Week 14: Evaluating Embedding Quality**
+- **Topic:**  
+  - Intrinsic vs Extrinsic evaluation  
+  - Benchmarks: GLUE, SuperGLUE, and MTEB  
+  - Probing techniques and bias measurement in embeddings  
+- **Preparation:** Wang et al. (2018), *GLUE Benchmark*; Muennighoff et al. (2023), *MTEB Benchmark*  
+- **Method:** Lecture, discussion, optional mini-lab.
+
+---
+
+### **Week 15: Final Project Presentations**
+- **Scope:** Student final presentations only (no new lecture).  
+- **Task:** Each student either (a) presents their own embedding-based project, or (b) reviews and critiques a recent research paper on modern embedding models.  
+- **Evaluation:** Originality (40%), Technical depth (30%), Presentation clarity (30%).  
+- **Method:** Student presentations and feedback.
+
+---
