@@ -16,7 +16,17 @@ My publications cover a wide spectrum of research in Artificial Intelligence and
 ---
 
 ## Teaching
-Interested in my current courses? Explore the [**Teaching**](/teaching/) section.
+Interested in my current courses? Explore the [**Teaching**](/teaching/) ---
+
+---
+
+## Office Hours
+
+Due to my current workload, I have very limited availability outside of my regular office hours.  
+Please check my **updated office hours** at the following link before planning a visit or meeting:
+
+👉 [Office Hours](https://bmb.cu.edu.tr/cu/personel/akademik-personel)
+Thank you for your understanding.
 
 ---
 
