@@ -1,17 +1,11 @@
 ---
-title: Text Vectorization (PhD Level)
+title: Text Vectorization
 collection: teaching
-type: "Undergraduate Course"
+type: "PhD Course"
 permalink: /teaching/T2V
 venue: "CuCEng"
 date: 2025-1-1
 ---
-
-## Course Title
-**Text Vectorization**
-
-## Level
-Ph.D. (Doctoral Course)
 
 ## Course Objective
 By the end of this course, students will understand the theoretical foundations behind transforming textual data into numerical representations that can be processed by machine learning models.  
@@ -27,7 +21,7 @@ Starting from classical Vector Space Models and TF-IDF, the course explores a wi
 
 ---
 
-## 15-Week Intensive Course Schedule
+### Weekly Schedule
 
 ### **Week 1: Introduction and Fundamentals**
 - **Topic:** Evolution of text representation. Why vectorization? Basic NLP operations (tokenization, normalization, stemming/lemmatization).  
