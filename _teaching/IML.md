@@ -20,21 +20,21 @@ It is expected that students have basic programming knowledge (Python or equival
 
 | Week | Topics | Lesson |
 |------|---------|--------|
-| 1 | Introduction and Basic Concepts of Machine Learning | [Lesson 1](https://youtube.com/watch?v=example1) |
-| 2 | Supervised Learning – Distance Based Classification (K-Nearest Neighbors) | [Lesson 2](https://youtube.com/watch?v=example2) |
-| 3 | Supervised Learning – Probability Based Classification (Naïve Bayes) | [Lesson 3](https://youtube.com/watch?v=example3) |
-| 4 | Supervised Learning – Entropy Based Classification (Decision Trees: ID3, C4.5) | [Lesson 4](https://youtube.com/watch?v=example4) |
-| 5 | Supervised Learning – Lagrange Based Classification (Support Vector Machines) | [Lesson 5](https://youtube.com/watch?v=example5) |
-| 6 | Supervised Learning – Least Squares Based Regression (Ordinary Linear Regression) | [Lesson 6](https://youtube.com/watch?v=example6) |
-| 7 | Unsupervised Learning – Clustering (K-Means) | [Lesson 7](https://youtube.com/watch?v=example7) |
+| 1 | Introduction and Basic Concepts of Machine Learning | [Lesson 1](https://youtube.com/playlist?list=PLZ6aye2WITFSSIT_2FuVPLOx2JvTESDPy&si=3fESd05ARhDfsXjG) |
+| 2 | Supervised Learning – Distance Based Classification (K-Nearest Neighbors) | [Lesson 2](https://youtube.com/playlist?list=PLZ6aye2WITFSSIT_2FuVPLOx2JvTESDPy&si=3fESd05ARhDfsXjG) |
+| 3 | Supervised Learning – Probability Based Classification (Naïve Bayes) | [Lesson 3](https://youtube.com/playlist?list=PLZ6aye2WITFSSIT_2FuVPLOx2JvTESDPy&si=3fESd05ARhDfsXjG) |
+| 4 | Supervised Learning – Entropy Based Classification (Decision Trees: ID3, C4.5) | [Lesson 4](https://youtube.com/playlist?list=PLZ6aye2WITFSSIT_2FuVPLOx2JvTESDPy&si=3fESd05ARhDfsXjG) |
+| 5 | Supervised Learning – Lagrange Based Classification (Support Vector Machines) | [Lesson 5](https://youtube.com/playlist?list=PLZ6aye2WITFSSIT_2FuVPLOx2JvTESDPy&si=3fESd05ARhDfsXjG) |
+| 6 | Supervised Learning – Least Squares Based Regression (Ordinary Linear Regression) | [Lesson 6](https://youtube.com/playlist?list=PLZ6aye2WITFSSIT_2FuVPLOx2JvTESDPy&si=3fESd05ARhDfsXjG) |
+| 7 | Unsupervised Learning – Clustering (K-Means) | [Lesson 7](https://youtube.com/playlist?list=PLZ6aye2WITFSSIT_2FuVPLOx2JvTESDPy&si=3fESd05ARhDfsXjG) |
 | 8 | Midterm Exam |  |
-| 9 | Unsupervised Learning – Dimensionality Reduction (Principal Component Analysis) | [Lesson 8](https://youtube.com/watch?v=example8) |
-| 10 | Unsupervised Learning – Association Rules (Apriori Algorithm) | [Lesson 9](https://youtube.com/watch?v=example9) |
-| 11 | Reinforcement Learning (Q-Learning) | [Lesson 10](https://youtube.com/watch?v=example10) |
-| 12 | Deep Learning – Perceptron and Adaline | [Lesson 11](https://youtube.com/watch?v=example11) |
-| 13 | Deep Learning – Artificial Neural Networks (MLP and RBF) | [Lesson 12](https://youtube.com/watch?v=example12) |
-| 14 | Deep Learning – Convolutional and Recurrent Neural Networks (CNN and RNN) | [Lesson 13](https://youtube.com/watch?v=example13) |
-| 15 | Deep Learning – Transfer Learning and Transformers | [Lesson 14](https://youtube.com/watch?v=example14) |
+| 9 | Unsupervised Learning – Dimensionality Reduction (Principal Component Analysis) | [Lesson 8](https://youtube.com/playlist?list=PLZ6aye2WITFSSIT_2FuVPLOx2JvTESDPy&si=3fESd05ARhDfsXjG) |
+| 10 | Unsupervised Learning – Association Rules (Apriori Algorithm) | [Lesson 9](https://youtube.com/playlist?list=PLZ6aye2WITFSSIT_2FuVPLOx2JvTESDPy&si=3fESd05ARhDfsXjG) |
+| 11 | Reinforcement Learning (Q-Learning) | [Lesson 10](https://youtube.com/playlist?list=PLZ6aye2WITFSSIT_2FuVPLOx2JvTESDPy&si=3fESd05ARhDfsXjG) |
+| 12 | Deep Learning – Perceptron and Adaline | [Lesson 11](https://youtube.com/playlist?list=PLZ6aye2WITFSSIT_2FuVPLOx2JvTESDPy&si=3fESd05ARhDfsXjG) |
+| 13 | Deep Learning – Artificial Neural Networks (MLP and RBF) | [Lesson 12](https://youtube.com/playlist?list=PLZ6aye2WITFSSIT_2FuVPLOx2JvTESDPy&si=3fESd05ARhDfsXjG) |
+| 14 | Deep Learning – Convolutional and Recurrent Neural Networks (CNN and RNN) | [Lesson 13](https://youtube.com/playlist?list=PLZ6aye2WITFSSIT_2FuVPLOx2JvTESDPy&si=3fESd05ARhDfsXjG) |
+| 15 | Deep Learning – Transfer Learning and Transformers | [Lesson 14](https://youtube.com/playlist?list=PLZ6aye2WITFSSIT_2FuVPLOx2JvTESDPy&si=3fESd05ARhDfsXjG) |
 | 16 | Review for Final Exam |  |
 
 ## Resources
