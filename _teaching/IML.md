@@ -35,7 +35,7 @@ It is expected that students have basic programming knowledge (Python or equival
 | 13 | Deep Learning – Artificial Neural Networks (MLP and RBF) | [Lesson 12](https://youtube.com/watch?v=example12) |
 | 14 | Deep Learning – Convolutional and Recurrent Neural Networks (CNN and RNN) | [Lesson 13](https://youtube.com/watch?v=example13) |
 | 15 | Deep Learning – Transfer Learning and Transformers | [Lesson 14](https://youtube.com/watch?v=example14) |
-| 16 | Review for Final Exam | [Lesson 15](https://youtube.com/watch?v=example15) |
+| 16 | Review for Final Exam |  |
 
 ## Resources
 Below you can find past exam papers.
