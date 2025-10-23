@@ -17,6 +17,7 @@ This course introduces the fundamental principles of machine learning and their 
 It is expected that students have basic programming knowledge (Python or equivalent).
 
 ### Weekly Schedule
+
 | Week | Topics | Lesson |
 |------|---------|--------|
 | 1 | Introduction and Basic Concepts of Machine Learning | [Lesson 1](https://youtube.com/watch?v=example1) |
