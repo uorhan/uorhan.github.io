@@ -32,23 +32,25 @@ It is expected that the students know programming.
 
 ### Weekly Schedule
 
-| Week | Subjects | Lesson |
-|------|-----------|--------|
-| 1 | Instance based Learning, Supervised and Unsupervised Learning | Lesson 1 |
-| 2 | K-Means Clustering, Classification by K-Nearest Neighbor | Lesson 2, sample2 |
-| 3 | Entropy, Decision Tree Learning, ID3 and C4.5 algorithms, Classification and Regression Trees | Lesson 3, sample3 |
-| 4 | Probability and Conditional Probability, Bayesian Theorem, Naive Bayes Classifier, Categorical and Numerical Data | Lesson 4, sample4 |
-| 5 | Linear Regression, Multiple Linear Regression, Least Squares Method, Thresholding and Competitive Classification | Lesson 5, sample5 |
-| 6 | Fuzzy Logic, Fuzzy Inference Systems | Lesson 6, sample6 |
-| 7 | Introduction to Artificial Neural Networks, Perceptron, Adaline, Least Mean Squares | Lesson 7, sample7 |
-| 8 | Midterm exam |  |
-| 9 | Back-propagation Algorithm, Multi-Layer Perceptron Network | Lesson 8, sample8 |
-| 10 | Reinforcement Learning, Q-Learning, TD-Learning, Learning Vector Quantization Network, LVQ2, LVQ-X | Lesson 9, 9-a, 9-b |
-| 11 | Mapping and Kernel Functions, Radial Basis Function (RBF), RBF Network | Lesson 10 |
-| 12 | Lagrange Method, Optimization by Lagrange Coefficient, Support Vector Machine, Quadratic Programming | Lesson 11 |
-| 13 | Feature Extraction and Selection, Dimension Reduction, Principal Component Analysis, Linear Discriminant Analysis | Lesson 12, sample12 |
-| 14 | Convolutional and Recurrent Networks, Deep Learning | Lesson 13 |
-| 15 | Review for Final Exam |  |
+
+| Week | Topics | Lesson |
+|------|---------|--------|
+| 1 | Introduction and Basic Concepts of Machine Learning | Lesson 1 |
+| 2 | Supervised Learning – Distance Based Classification (K-Nearest Neighbors) | Lesson 2 |
+| 3 | Supervised Learning – Probability Based Classification (Naïve Bayes) | Lesson 3 |
+| 4 | Supervised Learning – Entropy Based Classification (Decision Trees: ID3, C4.5) | Lesson 4 |
+| 5 | Supervised Learning – Lagrange Based Classification (Support Vector Machines) | Lesson 5 |
+| 6 | Supervised Learning – Least Squares Based Regression (Ordinary Linear Regression) | Lesson 6 |
+| 7 | Unsupervised Learning – Clustering (K-Means) | Lesson 7 |
+| 8 | Midterm Exam |  |
+| 9 | Unsupervised Learning – Dimensionality Reduction (Principal Component Analysis) | Lesson 8 |
+| 10 | Unsupervised Learning – Association Rules (Apriori Algorithm) | Lesson 9 |
+| 11 | Reinforcement Learning (Q-Learning) | Lesson 10 |
+| 12 | Deep Learning – Perceptron and Adaline | Lesson 11 |
+| 13 | Deep Learning – Artificial Neural Networks (MLP and RBF) | Lesson 12 |
+| 14 | Deep Learning – Convolutional and Recurrent Neural Networks (CNN and RNN) | Lesson 13 |
+| 15 | Deep Learning – Transfer Learning and Transformers | Lesson 14 |
+| 16 | Review for Final Exam |  |
 
 ## Resources
 Below you can find past exam papers.
