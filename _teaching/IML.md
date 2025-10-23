@@ -8,49 +8,33 @@ date: 2025-01-01
 ---
 
 ### Course Objectives
-Machine Learning is computer algorithms which models the given problem by the data obtained from its media.  
-The studies showed the abilities of learning and making decision of machine learning methods are getting important day by day.  
-Especially in pattern recognition problems, fast and powerful algorithms are needed.  
-In this course, the theoretical and practical foundations of machine learning methods are examined and by these methods, a solution finding to pattern recognition problems is aimed.
-
-### Course Content
-Instance-Based Learning; supervised and unsupervised learning; Decision Tree Learning; Bayesian Learning;  
-Artificial Neural Networks: feed-forward and feedback paradigms; Assessing, Comparing and Combining Learning Algorithms;  
-Feature Extraction and Dimension Reduction; Principal Component Analysis; Linear Discriminant Analysis.
-
-### Course Materials
-- T. Mitchell, *Machine Learning*, McGraw-Hill, 1997.  
-- C. M. Bishop, *Pattern Recognition and Machine Learning*, Springer, 2007.  
-- S. Haykin, *Neural Networks and Learning Machines*, Prentice Hall, 2008.  
-- R. O. Duda, *Pattern Classification*, Wiley-Interscience, 2000.  
+This course introduces the fundamental principles of machine learning and their real-world applications, enabling students to design and evaluate intelligent systems capable of learning from data.
 
 ### Assessment
 %40 Midterm (exam,tasks,etc.) + %60 Final (exam,tasks,etc.)
 
 ### Prerequisites
-It is expected that the students know programming.
+It is expected that students have basic programming knowledge (Python or equivalent).
 
 ### Weekly Schedule
-
-
 | Week | Topics | Lesson |
 |------|---------|--------|
-| 1 | Introduction and Basic Concepts of Machine Learning | Lesson 1 |
-| 2 | Supervised Learning – Distance Based Classification (K-Nearest Neighbors) | Lesson 2 |
-| 3 | Supervised Learning – Probability Based Classification (Naïve Bayes) | Lesson 3 |
-| 4 | Supervised Learning – Entropy Based Classification (Decision Trees: ID3, C4.5) | Lesson 4 |
-| 5 | Supervised Learning – Lagrange Based Classification (Support Vector Machines) | Lesson 5 |
-| 6 | Supervised Learning – Least Squares Based Regression (Ordinary Linear Regression) | Lesson 6 |
-| 7 | Unsupervised Learning – Clustering (K-Means) | Lesson 7 |
+| 1 | Introduction and Basic Concepts of Machine Learning | [Lesson 1](https://youtube.com/watch?v=example1) |
+| 2 | Supervised Learning – Distance Based Classification (K-Nearest Neighbors) | [Lesson 2](https://youtube.com/watch?v=example2) |
+| 3 | Supervised Learning – Probability Based Classification (Naïve Bayes) | [Lesson 3](https://youtube.com/watch?v=example3) |
+| 4 | Supervised Learning – Entropy Based Classification (Decision Trees: ID3, C4.5) | [Lesson 4](https://youtube.com/watch?v=example4) |
+| 5 | Supervised Learning – Lagrange Based Classification (Support Vector Machines) | [Lesson 5](https://youtube.com/watch?v=example5) |
+| 6 | Supervised Learning – Least Squares Based Regression (Ordinary Linear Regression) | [Lesson 6](https://youtube.com/watch?v=example6) |
+| 7 | Unsupervised Learning – Clustering (K-Means) | [Lesson 7](https://youtube.com/watch?v=example7) |
 | 8 | Midterm Exam |  |
-| 9 | Unsupervised Learning – Dimensionality Reduction (Principal Component Analysis) | Lesson 8 |
-| 10 | Unsupervised Learning – Association Rules (Apriori Algorithm) | Lesson 9 |
-| 11 | Reinforcement Learning (Q-Learning) | Lesson 10 |
-| 12 | Deep Learning – Perceptron and Adaline | Lesson 11 |
-| 13 | Deep Learning – Artificial Neural Networks (MLP and RBF) | Lesson 12 |
-| 14 | Deep Learning – Convolutional and Recurrent Neural Networks (CNN and RNN) | Lesson 13 |
-| 15 | Deep Learning – Transfer Learning and Transformers | Lesson 14 |
-| 16 | Review for Final Exam |  |
+| 9 | Unsupervised Learning – Dimensionality Reduction (Principal Component Analysis) | [Lesson 8](https://youtube.com/watch?v=example8) |
+| 10 | Unsupervised Learning – Association Rules (Apriori Algorithm) | [Lesson 9](https://youtube.com/watch?v=example9) |
+| 11 | Reinforcement Learning (Q-Learning) | [Lesson 10](https://youtube.com/watch?v=example10) |
+| 12 | Deep Learning – Perceptron and Adaline | [Lesson 11](https://youtube.com/watch?v=example11) |
+| 13 | Deep Learning – Artificial Neural Networks (MLP and RBF) | [Lesson 12](https://youtube.com/watch?v=example12) |
+| 14 | Deep Learning – Convolutional and Recurrent Neural Networks (CNN and RNN) | [Lesson 13](https://youtube.com/watch?v=example13) |
+| 15 | Deep Learning – Transfer Learning and Transformers | [Lesson 14](https://youtube.com/watch?v=example14) |
+| 16 | Review for Final Exam | [Lesson 15](https://youtube.com/watch?v=example15) |
 
 ## Resources
 Below you can find past exam papers.
