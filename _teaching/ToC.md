@@ -24,7 +24,7 @@ There is no formal prerequisite; however, taking the Discrete Mathematics course
 ### Weekly Schedule
 
 | Week | Subjects | Lesson |
-|------|-----------|-------|
+|------|-----------|--------|
 | 1 | Discrete Mathematical Structures review |[Lesson 1](https://youtube.com/playlist?list=PLZ6aye2WITFTfq_dj6Q-UMdr9YKI02d5M&si=4AKWnn-WxqXmYRNK) | 
 | 2 | Deterministic (DFA) and Non-Deterministic (NFA) Finite Automata |[Lesson 2](https://youtube.com/playlist?list=PLZ6aye2WITFTfq_dj6Q-UMdr9YKI02d5M&si=4AKWnn-WxqXmYRNK) |
 | 3 | NFA to DFA, Regular Expressions (RegEx) |[Lesson 3](https://youtube.com/playlist?list=PLZ6aye2WITFTfq_dj6Q-UMdr9YKI02d5M&si=4AKWnn-WxqXmYRNK) |
@@ -32,14 +32,14 @@ There is no formal prerequisite; however, taking the Discrete Mathematics course
 | 5 | Context-Free Grammars, Chomsky Normal Form (CNF) |[Lesson 5](https://youtube.com/playlist?list=PLZ6aye2WITFTfq_dj6Q-UMdr9YKI02d5M&si=4AKWnn-WxqXmYRNK) |
 | 6 | Push-Down Automata (PDA), CNF to PDA |[Lesson 6](https://youtube.com/playlist?list=PLZ6aye2WITFTfq_dj6Q-UMdr9YKI02d5M&si=4AKWnn-WxqXmYRNK) |
 | 7 | Pumping Lemma for Context-Free Languages |[Lesson 7](https://youtube.com/playlist?list=PLZ6aye2WITFTfq_dj6Q-UMdr9YKI02d5M&si=4AKWnn-WxqXmYRNK) |
-| 8 | Midterm exam |
+| 8 | Midterm exam |  |
 | 9 | Turing Machines, Church-Turing Thesis |[Lesson 8](https://youtube.com/playlist?list=PLZ6aye2WITFTfq_dj6Q-UMdr9YKI02d5M&si=4AKWnn-WxqXmYRNK) |
 | 10 | Non-Deterministic Turing Machines |[Lesson 9](https://youtube.com/playlist?list=PLZ6aye2WITFTfq_dj6Q-UMdr9YKI02d5M&si=4AKWnn-WxqXmYRNK) |
 | 11 | Decidable and Undecidable Languages |[Lesson 10](https://youtube.com/playlist?list=PLZ6aye2WITFTfq_dj6Q-UMdr9YKI02d5M&si=4AKWnn-WxqXmYRNK) |
 | 12 | Enumerability and Enumerable Languages |[Lesson 11](https://youtube.com/playlist?list=PLZ6aye2WITFTfq_dj6Q-UMdr9YKI02d5M&si=4AKWnn-WxqXmYRNK) |
 | 13 | Introduction to Complexity Theory, P & NP classes |[Lesson 12](https://youtube.com/playlist?list=PLZ6aye2WITFTfq_dj6Q-UMdr9YKI02d5M&si=4AKWnn-WxqXmYRNK) |
 | 14 | Non-Deterministic algorithms, NP-Complete Languages |[Lesson 13](https://youtube.com/playlist?list=PLZ6aye2WITFTfq_dj6Q-UMdr9YKI02d5M&si=4AKWnn-WxqXmYRNK) |
-| 15 | Review for Final Exam |
+| 15 | Review for Final Exam |  |
 
 ## Resources
 Below you can find past exam papers.
