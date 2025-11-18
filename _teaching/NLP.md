@@ -37,7 +37,7 @@ There is no formal prerequisite; however, taking the Theory of Computation (Auto
 | 12 | Machine Translation | Lesson 11 |
 | 13 | Keyword Extraction, Document Summarization | Lesson 12 |
 | 14 | Paraphrasing, Ontology Mapping | Lesson 13 |
-| 15 | Review for Final Exam |  |
+| 15 | Project presentations | <a href="/files/rag.pdf">RAG</a> - LORA |
 
 ## Resources
 Below you can find past exam papers.
