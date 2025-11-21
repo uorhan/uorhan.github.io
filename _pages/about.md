@@ -37,4 +37,4 @@ You can find information about my current and past graduate students through the
 ---
 
 ## Beyond Science
-I’ve found a way to merge my passions for science, art, and imagination: writing science fiction. If you’re curious about this creative side, your keyword is **Artificial World Colony**.
+I’ve found a way to merge my passions for science, art, and imagination: writing science fiction. If you’re curious about this creative side, your keyword is [Artificial World Colony](https://artificialworldcolony.blogspot.com).
