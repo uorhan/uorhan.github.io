@@ -7,15 +7,6 @@ redirect_from:
   - /resume
 ---
 
-**Professor & Head of Computer Engineering Department** Cukurova University, Turkiye  
-
-<i class="fas fa-envelope"></i> **Email:** [uorhan@cu.edu.tr](mailto:uorhan@cu.edu.tr)  
-<i class="fas fa-globe"></i> **Web:** [http://bmb.cu.edu.tr/uorhan](http://bmb.cu.edu.tr/uorhan)  
-<i class="fas fa-phone"></i> **Mobile:** +90 533 546 24 67  
-<i class="fas fa-graduation-cap"></i> **Google Scholar:** [Profile Link](https://scholar.google.com/citations?hl=en&user=eCnqIbYAAAAJ)
-
----
-
 ## Professional Summary
 
 Senior computer scientist and academic leader with over 20 years of experience in artificial intelligence. Currently serving as the **Head of the Computer Engineering Department** at Cukurova University. While my background includes extensive work in machine learning and pattern recognition, my recent research agenda focuses on **Natural Language Processing (NLP)**, specifically **Large Language Models (LLMs)**, **hallucination mitigation**, and **knowledge graph-based reasoning**.
@@ -32,7 +23,7 @@ Senior computer scientist and academic leader with over 20 years of experience i
 
 ## Current Position
 
-**Professor & Head of Department** | *Cukurova University, Turkiye* *(2022 – Present)*
+**Professor & Head of Department**, *Cukurova University, Turkiye* *(2022 – Present)*
 
 * Leading the Computer Engineering Department and coordinating research strategies.
 * **Key Courses Taught (PhD/MSc Level):**
@@ -45,10 +36,10 @@ Senior computer scientist and academic leader with over 20 years of experience i
 
 ## Relevant Project Experience
 
-**Project Manager | Live Turkish Dictionary Network Design with Weighted Graphs** *Funded by TUBITAK* * Designed a dynamic dictionary network using weighted graph structures to analyze semantic relationships between words.
+**Project Manager, Live Turkish Dictionary Network Design with Weighted Graphs** *Funded by TUBITAK* * Designed a dynamic dictionary network using weighted graph structures to analyze semantic relationships between words.
 * This project forms the foundational expertise for my current interest in Knowledge Graph-LLM integration.
 
-**Researcher | AI-Based Diagnostic Models (Medical NLP/ML)** *Funded by TUBITAK* * Developing diagnostic models by primarily employing **BERT-based architectures** to encode gene sequences as textual representations, while utilizing **classical Machine Learning** techniques as robust baselines.
+**Researcher, AI-Based Diagnostic Models (Medical NLP/ML)** *Funded by TUBITAK* * Developing diagnostic models by primarily employing **BERT-based architectures** to encode gene sequences as textual representations, while utilizing **classical Machine Learning** techniques as robust baselines.
 
 ---
 
@@ -64,11 +55,11 @@ Senior computer scientist and academic leader with over 20 years of experience i
 
 ## Education
 
-* **Ph.D. in Electrical-Electronics Engineering** | Bulent Ecevit University, 2011.  
+* **Ph.D. in Electrical-Electronics Engineering**, Bulent Ecevit University, 2011.  
     *Focus:* Signal Processing and Pattern Recognition.
-* **M.Sc. in Mathematics** | Gaziosmanpasa University, 2007.  
+* **M.Sc. in Mathematics**, Gaziosmanpasa University, 2007.  
     *Focus:* Fuzzy Logic and Simulation.
-* **B.Eng. in Computer Engineering** | Karadeniz Technical University, 2000.
+* **B.Eng. in Computer Engineering**, Karadeniz Technical University, 2000.
 
 ---
 
