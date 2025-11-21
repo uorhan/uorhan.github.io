@@ -16,7 +16,7 @@ My publications cover a wide spectrum of research in Artificial Intelligence and
 ---
 
 ## Teaching
-Interested in my current courses? Explore the [**Teaching**](/teaching/) ---
+Interested in my current courses? Explore the [**Teaching**](/teaching/) page.
 
 ---
 
