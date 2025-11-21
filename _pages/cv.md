@@ -37,9 +37,8 @@ Senior computer scientist and academic leader with over 20 years of experience i
 ## Relevant Project Experience
 
 **Project Manager, Live Turkish Dictionary Network Design with Weighted Graphs** *Funded by TUBITAK* * Designed a dynamic dictionary network using weighted graph structures to analyze semantic relationships between words.
-* This project forms the foundational expertise for my current interest in Knowledge Graph-LLM integration.
 
-**Researcher, AI-Based Diagnostic Models (Medical NLP/ML)** *Funded by TUBITAK* * Developing diagnostic models by primarily employing **BERT-based architectures** to encode gene sequences as textual representations, while utilizing **classical Machine Learning** techniques as robust baselines.
+**Researcher, AI-Based Diagnostic Models (Medical NLP/ML)** *Funded by TUBITAK* * Developing diagnostic models by primarily employing BERT-based architectures to encode gene sequences as textual representations, while utilizing classical Machine Learning techniques as robust baselines.
 
 ---
 
@@ -55,10 +54,14 @@ Senior computer scientist and academic leader with over 20 years of experience i
 
 ## Education
 
-* **Ph.D. in Electrical-Electronics Engineering**, Bulent Ecevit University, 2011.  
-    *Focus:* Signal Processing and Pattern Recognition.
-* **M.Sc. in Mathematics**, Gaziosmanpasa University, 2007.  
-    *Focus:* Fuzzy Logic and Simulation.
+* **Ph.D. in Electrical-Electronics Engineering**, Bulent Ecevit University, 2011.
+    * *Focus:* **Signal Classification via Discretization-based Probabilities.**
+    * [cite_start]Investigated the use of **discretization methods** to convert continuous data into discrete probabilistic models for classification[cite: 8], laying the groundwork for my expertise in data quantization and pattern recognition.
+
+* **M.Sc. in Mathematics**, Gaziosmanpasa University, 2007.
+    * *Focus:* **Game AI & Simulation.**
+    * [cite_start]Developed a **human-vs-computer game simulation** for a novel board game variant[cite: 10], utilizing **Fuzzy Logic** algorithms to model adaptive decision-making and strategic reasoning against human opponents.
+
 * **B.Eng. in Computer Engineering**, Karadeniz Technical University, 2000.
 
 ---
