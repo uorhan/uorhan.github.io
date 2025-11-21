@@ -23,20 +23,20 @@ There is no formal prerequisite; however, taking the Theory of Computation (Auto
 
 | Week | Subjects | Note |
 |------|-----------|------|
-| 1 | Introduction to NLP: Concepts and terms | Lesson 1 |
-| 2 | Text Normalization, Lemmatization, Parsing | Lesson 2 |
-| 3 | N-Grams and Language Models | Lesson 3 |
-| 4 | Corpus (Features and Analysis) | Lesson 4 |
-| 5 | Part of Speech Tagging | Lesson 5 |
-| 6 | Introduction to Semantic Analysis | Lesson 6 |
-| 7 | Ambiguity | Lesson 7 |
+| 1 | Introduction to NLP: Concepts and terms | [Lesson 1](/assets/exams/NLP/NLP1.pdf) |
+| 2 | Text Normalization, Lemmatization, Parsing | [Lesson 2](/assets/exams/NLP/NLP2.pdf) |
+| 3 | N-Grams and Language Models | [Lesson 3](/assets/exams/NLP/NLP3.pdf) |
+| 4 | Corpus (Features and Analysis) | [Lesson 4](/assets/exams/NLP/NLP4.pdf) |
+| 5 | Part of Speech Tagging | [Lesson 5](/assets/exams/NLP/NLP5.pdf) |
+| 6 | Introduction to Semantic Analysis | [Lesson 6](/assets/exams/NLP/NLP6.pdf) |
+| 7 | Ambiguity | [Lesson 7](/assets/exams/NLP/NLP7.pdf) |
 | 8 | Midterm Exam |  |
-| 9 | Lexical Similarity | Lesson 8 |
-| 10 | Semantic Similarity | Lesson 9 |
-| 11 | Dialogue Systems, Question Answering | Lesson 10 |
-| 12 | Machine Translation | Lesson 11 |
-| 13 | Keyword Extraction, Document Summarization | Lesson 12 |
-| 14 | Paraphrasing, Ontology Mapping | Lesson 13 |
+| 9 | Lexical Similarity | [Lesson 8](/assets/exams/NLP/NLP8.pdf) |
+| 10 | Semantic Similarity | [Lesson 9](/assets/exams/NLP/NLP9.pdf) |
+| 11 | Dialogue Systems, Question Answering | [Lesson 10](/assets/exams/NLP/NLP10.pdf) |
+| 12 | Machine Translation | [Lesson 11](/assets/exams/NLP/NLP11.pdf) |
+| 13 | Keyword Extraction, Document Summarization | [Lesson 12](/assets/exams/NLP/NLP12.pdf) |
+| 14 | Paraphrasing, Ontology Mapping | [Lesson 13](/assets/exams/NLP/NLP13.pdf) |
 | 15 | Project presentations | <a href="/files/rag.pdf">RAG</a> - LORA |
 
 ## Resources
