@@ -8,13 +8,13 @@ author_profile: true
 Below you can find a list of the courses I currently teach.
 
 ## Graduate Courses
-* PhD - [Text Vectorization](/teaching/T2V) (SPRING) [Details](https://ebs.cu.edu.tr/En/Course/Information/663694) 
-* PhD - Graph Theory (FALL) [Details](https://ebs.cu.edu.tr/En/Course/Information/663709) 
-* MEng - Computational Linguistics (FALL) [Details](https://ebs.cu.edu.tr/En/Course/Information/663761) 
-* MEng - Advanced Machine Learning (SPRING) [Details](https://ebs.cu.edu.tr/En/Course/Information/663775) 
+* PhD - [Text Vectorization](/teaching/T2V) (SPRING)
+* PhD - Graph Theory (FALL) 
+* MEng - [Computational Linguistics](/teaching/CoL) (FALL) 
+* MEng - Advanced Machine Learning (SPRING) 
 
 ## Undergraduate Courses
-* [Discrete Mathematics](/teaching/DiM) (SPRING) [Details](https://ebs.cu.edu.tr/En/Course/Information/663624) 
-* [Introduction to Machine Learning](/teaching/IML) (SPRING) [Details](https://ebs.cu.edu.tr/En/Course/Information/663673) 
-* [Natural Language Processing](/teaching/NLP) (FALL) [Details](https://ebs.cu.edu.tr/En/Course/Information/663655) 
-* [Theory of Computation](/teaching/ToC) (FALL) [Details](https://ebs.cu.edu.tr/En/Course/Information/663587)
+* [Discrete Mathematics](/teaching/DiM) (SPRING)
+* [Introduction to Machine Learning](/teaching/IML) (SPRING)
+* [Natural Language Processing](/teaching/NLP) (FALL)
+* [Theory of Computation](/teaching/ToC) (FALL)
