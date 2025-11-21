@@ -36,9 +36,11 @@ Senior computer scientist and academic leader with over 20 years of experience i
 
 ## Relevant Project Experience
 
-**Project Manager, Live Turkish Dictionary Network Design with Weighted Graphs** *Funded by TUBITAK* * Designed a dynamic dictionary network using weighted graph structures to analyze semantic relationships between words.
+**Project Manager**, Live Turkish Dictionary Network Design with Weighted Graphs (Funded by TUBITAK) * Implemented morphological disambiguation algorithms to identify correct word stems, ensuring accurate semantic context determination for Turkish. Developed an automated framework to evaluate the machine readability of definition sentences and construct a weighted graph network representing semantic relationships.
 
-**Researcher, AI-Based Diagnostic Models (Medical NLP/ML)** *Funded by TUBITAK* * Developing diagnostic models by primarily employing BERT-based architectures to encode gene sequences as textual representations, while utilizing classical Machine Learning techniques as robust baselines.
+
+**Researcher**, AI-Based Diagnostic Models for Liver Cancer using Cell-Free DNA Analysis (Funded by TUBITAK) * Investigating the detection of Hepatocellular Carcinoma by analyzing cell-free DNA (cfDNA) sequences obtained from blood samples (liquid biopsy). Developing diagnostic models by primarily employing BERT-based architectures to encode gene sequences as textual representations, while utilizing classical Machine Learning techniques as robust baselines.
+
 
 ---
 
@@ -56,11 +58,11 @@ Senior computer scientist and academic leader with over 20 years of experience i
 
 * **Ph.D. in Electrical-Electronics Engineering**, Bulent Ecevit University, 2011.
     * *Focus:* **Signal Classification via Discretization-based Probabilities.**
-    * [cite_start]Investigated the use of **discretization methods** to convert continuous data into discrete probabilistic models for classification[cite: 8], laying the groundwork for my expertise in data quantization and pattern recognition.
+    * Investigated the use of discretization methods to convert continuous data into discrete probabilistic models for classification.
 
 * **M.Sc. in Mathematics**, Gaziosmanpasa University, 2007.
     * *Focus:* **Game AI & Simulation.**
-    * [cite_start]Developed a **human-vs-computer game simulation** for a novel board game variant[cite: 10], utilizing **Fuzzy Logic** algorithms to model adaptive decision-making and strategic reasoning against human opponents.
+    * Developed a human-vs-computer game simulation for a novel board game variant, utilizing Fuzzy Logic algorithms to model adaptive decision-making and strategic reasoning against human opponents.
 
 * **B.Eng. in Computer Engineering**, Karadeniz Technical University, 2000.
 
