@@ -2,7 +2,7 @@
 layout: post
 title: "From a PhD Project to Global Impact: My Breakthrough Method in Time Series Classification"
 subtitle: "My PhD Thesis"
-date: 2020-9-9
+date: 2025-5-19
 categories: Thesis
 excerpt: "the story of a method—based on **discretization-based probabilities for time series classification**—that became the starting point of my academic career and professional passion"
 ---
