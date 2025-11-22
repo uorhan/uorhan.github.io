@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Digital Soil Texture Analyzer: When Sound Began to Speak"
-date: 2021-12-10 
+date: 2025-7-7 
 categories: projects
 tags: PROJECT
 excerpt: "A National-funded project focused on the design of an intelligent ultrasound-based device for analyzing soil texture, leading to patents, publications, and academic theses."
