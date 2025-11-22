@@ -2,7 +2,7 @@
 layout: post
 title: "🧭 SemSpace: The Birth of a Universe of Meaning"
 subtitle: "Evolution of Semspace algorithm"
-date: 2025-2-2
+date: 2023-2-2
 categories: PROJECT
 excerpt: "From a simple graph-based experiment to a universe of meaning — this is the eight-year journey of SemSpace, a model that redefined how machines understand language."
 ---
