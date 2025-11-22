@@ -34,23 +34,30 @@ Senior computer scientist and academic leader with over 20 years of experience i
 
 ---
 
+## Manuscripts Under Review / Working Papers
+
+*	Albayrak, F., **Orhan, U.** (2025). "Evaluating Reasoning Skills, Not Memorized Answers: A New Experimental Design for LLMs". Submitted to ACM Transactions on Intelligent Systems and Technology (TIST).
+* Tahiroglu, B.T., Sayallar, C., Turan, E., **Orhan, U.** (2025). "Unmasking Accuracy Illusions in Turkish Lemmatization: A New Evaluation Framework for Morphologically Rich Languages". Submitted to ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP).
+
+---
+
 ## Relevant Project Experience
 
-**Project Manager**, Live Turkish Dictionary Network Design with Weighted Graphs (Funded by TUBITAK) * Implemented morphological disambiguation algorithms to identify correct word stems, ensuring accurate semantic context determination for Turkish. Developed an automated framework to evaluate the machine readability of definition sentences and construct a weighted graph network representing semantic relationships.
+* **Project Manager**, Live Turkish Dictionary Network Design with Weighted Graphs (Funded by TUBITAK) * Implemented morphological disambiguation algorithms to identify correct word stems, ensuring accurate semantic context determination for Turkish. Developed an automated framework to evaluate the machine readability of definition sentences and construct a weighted graph network representing semantic relationships.
 
 
-**Researcher**, AI-Based Diagnostic Models for Liver Cancer using Cell-Free DNA Analysis (Funded by TUBITAK) * Investigating the detection of Hepatocellular Carcinoma by analyzing cell-free DNA (cfDNA) sequences obtained from blood samples (liquid biopsy). Developing diagnostic models by primarily employing BERT-based architectures to encode gene sequences as textual representations, while utilizing classical Machine Learning techniques as robust baselines.
+* **Researcher**, AI-Based Diagnostic Models for Liver Cancer using Cell-Free DNA Analysis (Funded by TUBITAK) * Investigating the detection of Hepatocellular Carcinoma by analyzing cell-free DNA (cfDNA) sequences obtained from blood samples (liquid biopsy). Developing diagnostic models by primarily employing BERT-based architectures to encode gene sequences as textual representations, while utilizing classical Machine Learning techniques as robust baselines.
 
 
 ---
 
 ## Selected Publications (NLP & AI Focus)
 
-1.  **Orhan, U.**, & Tulu, C. N. (2021). "A novel embedding approach to learn word vectors by weighting semantic relations: SemSpace". *Expert Systems with Applications*, 185, 115146.
-2.  **Orhan, U.**, Tosun, E. G., & Ozkaya, O. (2022). "Intent Detection Using Contextualized Deep SemSpace". *Arabian Journal for Science and Engineering*, 48(2), 2009-2020.
-3.  Turan, E., & **Orhan, U.** (2022). "Confidence Indexing of Automated Detected Synsets: A Case Study on Contemporary Turkish Dictionary". *ACM Transactions on Asian and Low-Resource Language Information Processing*, 21(2), 1-19.
-4.  Tulu, C. N., Ozkaya, O., & **Orhan, U.** (2021). "Automatic Short Answer Grading With SemSpace Sense Vectors and MaLSTM". *IEEE Access*, 9, 19270-19280.
-5.  Arslan, E., & **Orhan, U.** (2020). "Learning Word-Vector Quantization: A Study in Morphological Disambiguation of Turkish". *ACM Transactions on Asian and Low-Resource Language Information Processing*, 19(6), 1-22.
+*  **Orhan, U.**, & Tulu, C. N. (2021). "A novel embedding approach to learn word vectors by weighting semantic relations: SemSpace". *Expert Systems with Applications*, 185, 115146.
+*  **Orhan, U.**, Tosun, E. G., & Ozkaya, O. (2022). "Intent Detection Using Contextualized Deep SemSpace". *Arabian Journal for Science and Engineering*, 48(2), 2009-2020.
+*  Turan, E., & **Orhan, U.** (2022). "Confidence Indexing of Automated Detected Synsets: A Case Study on Contemporary Turkish Dictionary". *ACM Transactions on Asian and Low-Resource Language Information Processing*, 21(2), 1-19.
+*  Tulu, C. N., Ozkaya, O., & **Orhan, U.** (2021). "Automatic Short Answer Grading With SemSpace Sense Vectors and MaLSTM". *IEEE Access*, 9, 19270-19280.
+*  Arslan, E., & **Orhan, U.** (2020). "Learning Word-Vector Quantization: A Study in Morphological Disambiguation of Turkish". *ACM Transactions on Asian and Low-Resource Language Information Processing*, 19(6), 1-22.
 
 ---
 
