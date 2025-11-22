@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a researcher exploring the boundaries between artificial and human intelligence, and the founder of the Çukurova NLP Research Group. My earlier studies in clustering, fuzzy logic, and biosignal processing gradually led me to a deeper question: how does language shape thought, and can a machine ever truly understand it? Since 2015, my work has focused on Natural Language Processing — where data meets meaning, and algorithms begin to mirror fragments of human mind.
+As a computer engineer and an independent author of the 'Artificial World Colony' series, I am fascinated by the structures of narrative and logic. Founder of the Çukurova NLP Research Group, I have shifted my focus from biosignal processing to the challenges of Natural Language Processing. My current research scrutinizes the 'reasoning' of Large Language Models, aiming to develop frameworks that differentiate between memorized patterns and the genuine construction of meaning.
 
 ---
 
@@ -26,8 +26,8 @@ Please check my **updated office hours** at the following link before planning a
 
 ---
 
-## Research Notes
-Curious about my projects, research and technical notes, or behind-the-scenes reflections on research and teaching? Visit the [Research Notes](/year-archive/) section, a place where I occasionally share insights, experiments, and ideas that don’t always fit into formal publications but often spark new ones.
+## Future Insights Blog
+Curious about my projects, research, technical notes, or the behind-the-scenes side of my teaching and academic life? Visit the [Future Insights Blog](/year-archive/) — a space where I occasionally share reflections, experiments, and ideas that may not fit into formal publications, yet often inspire new ones.
 
 ---
 
