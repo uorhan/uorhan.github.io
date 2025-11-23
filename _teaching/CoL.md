@@ -2,7 +2,7 @@
 title: "Computational Linguistics"
 description: Syllabus and reading list for the graduate-level CoL course.
 collection: teaching
-type: "MEng Course"
+type: "MSc Course"
 permalink: /teaching/CoL
 venue: "CuCEng"
 date: 2025-1-1
