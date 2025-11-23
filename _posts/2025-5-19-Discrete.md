@@ -7,7 +7,6 @@ categories: Thesis
 excerpt: "the story of a method—based on **discretization-based probabilities for time series classification**—that became the starting point of my academic career and professional passion"
 ---
 <img src="/images/projects/discrete.jpg" witdth="100%"><br>
----
 
 # ✨ From a PhD Project to Global Impact: My Breakthrough Method in Time Series Classification
 
