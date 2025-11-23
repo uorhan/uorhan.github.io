@@ -36,20 +36,20 @@ Senior computer scientist and academic leader with over 20 years of experience i
 
 ## Selected Project Experience: NLP Focus
 
-* Principal Investigator, Live Turkish Dictionary Network Design with Weighted Graphs (Funded by TUBITAK | Budget: ~€60K)
+* **Principal Investigator**, Live Turkish Dictionary Network Design with Weighted Graphs (Funded by TUBITAK - Budget: ~€60K)
   *	Implemented morphological disambiguation algorithms to identify correct word stems, ensuring accurate semantic context determination for Turkish. 
   *	Developed an automated framework to evaluate the machine readability of definition sentences and construct a weighted graph network representing semantic relationships.
 
 * **Researcher**, AI-Based Diagnostic Models for Liver Cancer using Cell-Free DNA Analysis (Funded by TUBITAK + Cukurova University
-   Scientific Research Projects Fund | Budget: ~€50K)
+   Scientific Research Projects Fund - Budget: ~€50K)
   *	Investigating the detection of Hepatocellular Carcinoma by analyzing cell-free DNA (cfDNA) sequences obtained from blood samples (liquid biopsy).
   *	Developing diagnostic models by primarily employing BERT-based architectures to encode gene sequences as textual representations, while utilizing classical Machine Learning techniques as robust baselines.
 
-* **Principal Investigator (Proposal Under Review)**,  "A Multi-Layered Framework for Hallucination Detection and Mitigation in Large Language Models" (Submitted to Cukurova University Scientific Research Projects Fund | Budget: ~€8K).
+* **Principal Investigator (Proposal Under Review)**,  A Multi-Layered Framework for Hallucination Detection and Mitigation in Large Language Models, (Submitted to Cukurova University Scientific Research Projects Fund - Budget: ~€8K).
   *	Fine-tuning of a base model of a open-source LLM with a revised known-SFT dataset.
   *	Testing it with a new special dataset.
----
 
+---
 ## Selected Publications: NLP & AI Focus
 
   * Under Review / Current Research
