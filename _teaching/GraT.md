@@ -7,8 +7,6 @@ venue: "CuCEng"
 date: 2025-1-1
 ---
 
-<img src="/teaching/GraT.jpg" width="100%"><br>
-
 ## Course Description
 This course is designed for PhD students to explore the mathematical foundations of graph theory, analyze complex networks, and transition into modern graph representation learning (GNNs). The course follows a **seminar-based format**. Students are expected to read the assigned seminal paper or book chapter before class and participate in critical discussions.
 
