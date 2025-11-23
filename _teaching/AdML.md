@@ -3,7 +3,7 @@ title: "Advanced Machine Learning"
 description: Syllabus and reading list for the graduate-level AdML course.
 collection: teaching
 type: "MSc Course"
-permalink: /teaching/adML
+permalink: /teaching/AdML
 venue: "CuCEng"
 date: 2025-1-1
 ---
