@@ -6,7 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-As a computer engineer and an independent author of the 'Artificial World Colony' series, I am fascinated by the structures of narrative and logic. Founder of the Çukurova NLP Research Group, I have shifted my focus from biosignal processing to the challenges of Natural Language Processing. My current research scrutinizes the 'reasoning' of Large Language Models, aiming to develop frameworks that differentiate between memorized patterns and the genuine construction of meaning.
+
+Artificial intelligence has been my unwavering passion since my first encounter with a computer. While my academic journey began with biosignal processing, I eventually steered my course toward the world of NLP. As the founder of the Çukurova NLP Research Group, my current objective is clear: to construct authentic and consistent reasoning processes in Large Language Models, free from hallucinations.
 
 ---
 
