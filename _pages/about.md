@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Artificial intelligence has been my unwavering passion since my first encounter with a computer. While my academic journey began with biosignal processing, I eventually steered my course toward the world of NLP. As the founder of the Çukurova NLP Research Group, my current objective is clear: to construct authentic and consistent reasoning processes in Large Language Models, free from hallucinations.
+Artificial intelligence has been my unwavering passion since my first encounter with a computer. While my academic journey began with biosignal processing, I eventually steered my course toward the world of NLP. As the founder of the Cukurova NLP Research Group, my current objective is clear: to construct authentic and consistent reasoning processes in Large Language Models, free from hallucinations.
 
 ---
 
