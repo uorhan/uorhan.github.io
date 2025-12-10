@@ -45,7 +45,7 @@ There is no formal prerequisite; however, taking the Discrete Mathematics course
 Below you can find past exam papers.
 <p style="line-height: 1.8;">
   {% assign files = site.static_files | where_exp: "file", "file.path contains '/assets/exams/ToC/'" %}
-  {% assign pdf_files = files | where_exp: "file", "file.extname == 'e.pdf'" %}
+  {% assign pdf_files = files | where_exp: "file", "file.extname == '.pdf' and file.name contains '-e.pdf'" %}
 
   {% for file in pdf_files %}
     <a href="{{ file.path | relative_url }}">{{ file.name | downcase }}</a>
