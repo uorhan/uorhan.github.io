@@ -38,16 +38,19 @@ There is no formal prerequisite; however, taking the Discrete Mathematics course
 | 11 | Decidable and Undecidable Languages |[Lesson 10](/assets/exams/ToC/ToC-10.pdf) |
 | 12 | Enumerability and Enumerable Languages |[Lesson 11](/assets/exams/ToC/ToC-11.pdf) |
 | 13 | Introduction to Complexity Theory, P & NP classes |[Lesson 12](/assets/exams/ToC/ToC-12.pdf) |
-| 14 | Non-Deterministic algorithms, NP-Complete Languages |[Lesson 13] |
+| 14 | Non-Deterministic algorithms, NP-Complete Languages | |
 | 15 | Review for Final Exam |  |
 
 ## Resources
 Below you can find past exam papers.
 <p style="line-height: 1.8;">
-  {% assign files = site.static_files | where_exp: "file", "file.path contains '/assets/exams/ToC/'" %}
-  {% assign pdf_files = files | where_exp: "file", "file.extname == '.pdf' and file.name contains '-e.pdf'" %}
+  {% comment %} 1. Önce klasördeki tüm dosyaları al {% endcomment %}
+  {% assign folder_files = site.static_files | where_exp: "file", "file.path contains '/assets/exams/ToC/'" %}
+  
+  {% comment %} 2. Sonra bu dosyalar içinden isminde "-e.pdf" geçenleri süz {% endcomment %}
+  {% assign final_files = folder_files | where_exp: "file", "file.name contains '-e.pdf'" %}
 
-  {% for file in pdf_files %}
+  {% for file in final_files %}
     <a href="{{ file.path | relative_url }}">{{ file.name | downcase }}</a>
     {% unless forloop.last %} | {% endunless %}
   {% endfor %}
