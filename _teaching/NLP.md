@@ -42,10 +42,13 @@ There is no formal prerequisite; however, taking the Theory of Computation (Auto
 ## Resources
 Below you can find past exam papers.
 <p style="line-height: 1.8;">
-  {% assign files = site.static_files | where_exp: "file", "file.path contains '/assets/exams/NLP/'" %}
-  {% assign pdf_files = files | where_exp: "file", "file.extname == '.pdf'" %}
+  {% comment %} 1. Önce klasördeki tüm dosyaları al {% endcomment %}
+  {% assign folder_files = site.static_files | where_exp: "file", "file.path contains '/assets/exams/NLP/'" %}
+  
+  {% comment %} 2. Sonra bu dosyalar içinden isminde "-e.pdf" geçenleri süz {% endcomment %}
+  {% assign final_files = folder_files | where_exp: "file", "file.name contains '-e.pdf'" %}
 
-  {% for file in pdf_files %}
+  {% for file in final_files %}
     <a href="{{ file.path | relative_url }}">{{ file.name | downcase }}</a>
     {% unless forloop.last %} | {% endunless %}
   {% endfor %}
