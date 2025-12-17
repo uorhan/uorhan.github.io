@@ -37,7 +37,7 @@ There is no formal prerequisite; however, taking the Theory of Computation (Auto
 | 12 | Machine Translation | [Lesson 11](/assets/exams/NLP/NLP11.pdf) |
 | 13 | Keyword Extraction, Document Summarization | [Lesson 12](/assets/exams/NLP/NLP12.pdf) |
 | 14 | Paraphrasing, Ontology Mapping | [Lesson 13](/assets/exams/NLP/NLP13.pdf) |
-| 15 | Project presentations | <a href="/files/rag.pdf">RAG</a> - <a href="/files/LoRa.pdf">LORA</a> |
+| 15 | Project presentations | <a href="/files/rag.pdf">RAG</a> - <a href="/files/LoRa.pdf">LoRA</a> - <a href="/files/Agent.pdf">Agent</a> |
 
 ## Resources
 Below you can find past exam papers.
