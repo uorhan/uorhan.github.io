@@ -70,7 +70,7 @@ Scenario 2 (RAG): The answer provided when RAG is on, including citations .
 
 ---
 
-## 📦 Deliverables
+## 📦 Deliverables
 
 At the end of the project, you must prepare the following content:
 
@@ -79,7 +79,7 @@ At the end of the project, you must prepare the following content:
 The PDF files you used.
 The working version of the project (if you made changes to the code).
 
-### Project Report (PDF):
+### Project Report (PDF):
 
 Sector Definition: Which field did you choose?
 Parameter Table: The best settings you found for your data (Chunk Size, Overlap, Temperature, etc.).
