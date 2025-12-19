@@ -1,6 +1,5 @@
 ---
-layout: post
-title: "Project Task: Sectoral RAG System Optimization"
+title: "NLP Project Task: Sectoral RAG System Optimization"
 date: 2025-1-1
 categories: [NLP, Project, RAG, AI]
 tags: [rag, llm, chunking, vector-db]
