@@ -1,9 +1,6 @@
 ---
 title: "NLP Project Task: LoRA"
 date: 2025-1-1
-categories: [NLP, Project, LoRA, AI]
-tags: [LoRA, llm, fine-tuning]
-description: ""
 ---
 
 # 🚀 Competitive Code Reasoning with LoRa Fine-Tuning
