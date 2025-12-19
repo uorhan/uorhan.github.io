@@ -30,7 +30,7 @@ Determine a specialized field for yourself (e.g., Law, Medicine, Finance, Engine
 ### Step 2: Installation
 Clone the reference project to your computer (or Colab/Cloud environment) and install it:
 
-```bash
+bash
 git clone [https://github.com/naholav/rag-academic-assistant](https://github.com/naholav/rag-academic-assistant)
 cd rag-academic-assistant
 pip install -r requirements.txt
