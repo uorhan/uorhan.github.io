@@ -67,9 +67,11 @@ Ask the model for a very specific piece of information found in your document.
 Scenario 1 (Pure LLM): The model's answer when RAG is off (Usually "I don't know" or a hallucinated answer) .
 
 Scenario 2 (RAG): The answer provided when RAG is on, including citations .
+
 ---
 
 ## 📦 Deliverables
+
 At the end of the project, you must prepare the following content:
 
 ### GitHub Repository:
