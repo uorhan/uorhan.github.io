@@ -4,7 +4,7 @@ date: 2025-1-1
 description: "A task to transform a static LLM into an autonomous ReAct Agent capable of reasoning and using external tools to solve problems."
 ---
 
-[cite_start]In this project, you will transform a static Language Model (LLM) that gives fixed answers into an **Autonomous Agent (ReAct Agent)** that thinks, decides, and solves problems using external resources[cite: 1018].
+In this project, you will transform a static Language Model (LLM) that gives fixed answers into an **Autonomous Agent (ReAct Agent)** that thinks, decides, and solves problems using external resources.
 
 ## 🎯 Project Goal
 
@@ -31,7 +31,7 @@ Collect public data belonging to your chosen sector. You can choose one of two w
 * **Path B (LoRa):** Train a LoRa adapter possessing sectoral knowledge by fine-tuning a Base Model (e.g., Qwen, Llama, Mistral, etc.) with your data.
 
 ### Step 3: Transition to ReAct Architecture (Most Critical Step)
-[cite_start]You must perform the following integration using the provided Colab code[cite: 1036]:
+You must perform the following integration using the provided Colab code:
 
 1.  **Define RAG/LoRa as a "Tool":**
     * Classic RAG systems take the question and give the answer. In ReAct architecture, your system must be a function (Tool) that returns **raw information (context)**, not the answer.
