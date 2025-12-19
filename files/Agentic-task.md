@@ -15,8 +15,8 @@ description: "A task to transform a static LLM into an autonomous ReAct Agent ca
 
 ## 🔗 Resources
 
-* [cite_start]**Base Code (Notebook):** [Google Colab Link](https://colab.research.google.com/drive/1P_6jWDjVKEgOgPZXxUCXleyg5ERIt4Pl?usp=sharing) [cite: 1023-1024]
-* [cite_start]**Theoretical Guide:** *ReAct - Reasoning and Action.pdf* (Shared in the appendix) [cite: 1025]
+* [cite_start]**Base Code (Notebook):** <A href="https://colab.research.google.com/drive/1P_6jWDjVKEgOgPZXxUCXleyg5ERIt4Pl?usp=sharing"> Google Colab Link</a>
+* **Theoretical Guide:** <A href="https://uorhan.github.io/files/Agent.pdf">*ReAct - Reasoning and Action.pdf*</a>
 
 ---
 
