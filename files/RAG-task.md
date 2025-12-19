@@ -37,7 +37,6 @@ pip install -r requirements.txt
 Note: The system uses the ChromaDB vector database and the Qwen model by default.
 
 ### Step 3: Experimental Optimization (Critical Stage)
-
 Using the "Interactive Parameter Exploration" section in the guide document as a reference, you must find the best settings for your own data. You are required to conduct the following 3 experiments and report the results:
 
 ### 🧪 Experiment A: Chunking Strategy
@@ -51,7 +50,7 @@ Large Chunk (1000+ tokens): For complex topics requiring broad context.
 Optimal: Generally, 800 tokens and 150 overlap are recommended; what is the situation with your data? .
 
 
-### 🔍 Experiment B: Search Method (Hybrid Search)
+### 🔍 Experiment B: Search Method (Hybrid Search)
 
 Identify a question containing technical terms specific to your sector (e.g., "What is the performance of OCR-Qwen-32B?").
 
@@ -68,6 +67,7 @@ Ask the model for a very specific piece of information found in your document.
 Scenario 1 (Pure LLM): The model's answer when RAG is off (Usually "I don't know" or a hallucinated answer) .
 
 Scenario 2 (RAG): The answer provided when RAG is on, including citations .
+---
 
 ## 📦 Deliverables
 At the end of the project, you must prepare the following content:
@@ -83,7 +83,8 @@ Sector Definition: Which field did you choose?
 Parameter Table: The best settings you found for your data (Chunk Size, Overlap, Temperature, etc.).
 Evidence: Screenshots of the Q&A sessions obtained from Experiments A, B, and C.
 
-##💡 Tips and Troubleshooting
+## 💡 Tips and Troubleshooting
+
 Hardware: The code uses CUDA (GPU) by default. If you do not have a GPU, change the device setting to cpu, but answer generation may slow down.
 
 OOM (Out of Memory): If you get a memory error:
