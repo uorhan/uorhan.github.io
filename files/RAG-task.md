@@ -1,8 +1,6 @@
 ---
 title: "NLP Project Task: Sectoral RAG System Optimization"
 date: 2025-1-1
-categories: [NLP, Project, RAG, AI]
-tags: [rag, llm, chunking, vector-db]
 description: "A task to transform a static LLM into a RAG system capable of hybrid search by feeding it sectoral documents, and to optimize it."
 ---
 
@@ -16,7 +14,7 @@ Before starting the project, you need to review the following resources:
 * **Reference Code:** [RAG Academic Assistant Repository](https://github.com/naholav/rag-academic-assistant)
 
 **Brief Summary:**
-[cite_start]RAG systems are used to solve the "hallucination" (fabrication) problem of LLMs and to provide the model with up-to-date/private information [cite: 31-32]. Success in this architecture depends on how the text is divided (**Chunking**), how it is searched (**Hybrid Search**), and how creative the model is allowed to be (**Temperature**).
+RAG systems are used to solve the "hallucination" (fabrication) problem of LLMs and to provide the model with up-to-date/private information. Success in this architecture depends on how the text is divided (**Chunking**), how it is searched (**Hybrid Search**), and how creative the model is allowed to be (**Temperature**).
 
 ---
 
@@ -24,7 +22,7 @@ Before starting the project, you need to review the following resources:
 
 ### Step 1: Sector and Data Selection
 Determine a specialized field for yourself (e.g., Law, Medicine, Finance, Engineering Standards, Game Rules, etc.).
-* [cite_start]Find **at least 2 technical PDF documents** related to this field [cite: 319-320].
+* Find **at least 2 technical PDF documents** related to this field.
 * *Goal:* To test your system not with general culture questions ("What is the capital of France?"), but with specific information found only in those documents.
 
 ### Step 2: Installation
