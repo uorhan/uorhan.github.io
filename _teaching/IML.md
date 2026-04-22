@@ -30,9 +30,9 @@ It is expected that students have basic programming knowledge (Python or equival
 | 8 | Midterm Exam |  |
 | 9 | Unsupervised Learning – Dimensionality Reduction (Principal Component Analysis) | [Lesson 8](/assets/exams/IML/ML-08.pdf) |
 | 10 | Unsupervised Learning – Association Rules (Apriori Algorithm) | [Lesson 9](/assets/exams/IML/ML-09.pdf) |
-| 11 | Reinforcement Learning (Q-Learning) | [Lesson 10] |
-| 12 | Deep Learning – Perceptron and Adaline | [Lesson 11] |
-| 13 | Deep Learning – Artificial Neural Networks (MLP and RBF) | [Lesson 12] |
+| 11 | Reinforcement Learning (Q-Learning) | [Lesson 10](/assets/exams/IML/ML-10.pdf) |
+| 12 | Deep Learning – Perceptron and Adaline | [Lesson 11](/assets/exams/IML/ML-11.pdf) |
+| 13 | Deep Learning – Artificial Neural Networks (MLP and RBF) | [Lesson 12](/assets/exams/IML/ML-12.pdf) |
 | 14 | Deep Learning – Convolutional and Recurrent Neural Networks (CNN and RNN) | [Lesson 13] |
 | 15 | Deep Learning – Transfer Learning and Transformers | [Lesson 14] |
 | 16 | Review for Final Exam |  |
