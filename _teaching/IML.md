@@ -20,30 +20,33 @@ It is expected that students have basic programming knowledge (Python or equival
 
 | Week | Topics | Lesson |
 |------|---------|--------|
-| 1 | Introduction and Basic Concepts of Machine Learning | [Lesson 1](https://youtube.com/playlist?list=PLZ6aye2WITFSSIT_2FuVPLOx2JvTESDPy&si=3fESd05ARhDfsXjG) |
-| 2 | Supervised Learning – Distance Based Classification (K-Nearest Neighbors) | [Lesson 2](https://youtube.com/playlist?list=PLZ6aye2WITFSSIT_2FuVPLOx2JvTESDPy&si=3fESd05ARhDfsXjG) |
-| 3 | Supervised Learning – Probability Based Classification (Naïve Bayes) | [Lesson 3](https://youtube.com/playlist?list=PLZ6aye2WITFSSIT_2FuVPLOx2JvTESDPy&si=3fESd05ARhDfsXjG) |
-| 4 | Supervised Learning – Entropy Based Classification (Decision Trees: ID3, C4.5) | [Lesson 4](https://youtube.com/playlist?list=PLZ6aye2WITFSSIT_2FuVPLOx2JvTESDPy&si=3fESd05ARhDfsXjG) |
-| 5 | Supervised Learning – Lagrange Based Classification (Support Vector Machines) | [Lesson 5](https://youtube.com/playlist?list=PLZ6aye2WITFSSIT_2FuVPLOx2JvTESDPy&si=3fESd05ARhDfsXjG) |
-| 6 | Supervised Learning – Least Squares Based Regression (Ordinary Linear Regression) | [Lesson 6](https://youtube.com/playlist?list=PLZ6aye2WITFSSIT_2FuVPLOx2JvTESDPy&si=3fESd05ARhDfsXjG) |
-| 7 | Unsupervised Learning – Clustering (K-Means) | [Lesson 7](https://youtube.com/playlist?list=PLZ6aye2WITFSSIT_2FuVPLOx2JvTESDPy&si=3fESd05ARhDfsXjG) |
+| 1 | Introduction and Basic Concepts of Machine Learning | [Lesson 1](/assets/exams/IML/ML-01.pdf) |
+| 2 | Supervised Learning – Distance Based Classification (K-Nearest Neighbors) | [Lesson 2](/assets/exams/IML/ML-02.pdf) |
+| 3 | Supervised Learning – Probability Based Classification (Naïve Bayes) | [Lesson 3](/assets/exams/IML/ML-03.pdf) |
+| 4 | Supervised Learning – Entropy Based Classification (Decision Trees: ID3, C4.5) | [Lesson 4](/assets/exams/IML/ML-04.pdf) |
+| 5 | Supervised Learning – Lagrange Based Classification (Support Vector Machines) | [Lesson 5](/assets/exams/IML/ML-05.pdf) |
+| 6 | Supervised Learning – Least Squares Based Regression (Ordinary Linear Regression) | [Lesson 6](/assets/exams/IML/ML-06.pdf) |
+| 7 | Unsupervised Learning – Clustering (K-Means) | [Lesson 7](/assets/exams/IML/ML-07.pdf) |
 | 8 | Midterm Exam |  |
-| 9 | Unsupervised Learning – Dimensionality Reduction (Principal Component Analysis) | [Lesson 8](https://youtube.com/playlist?list=PLZ6aye2WITFSSIT_2FuVPLOx2JvTESDPy&si=3fESd05ARhDfsXjG) |
-| 10 | Unsupervised Learning – Association Rules (Apriori Algorithm) | [Lesson 9](https://youtube.com/playlist?list=PLZ6aye2WITFSSIT_2FuVPLOx2JvTESDPy&si=3fESd05ARhDfsXjG) |
-| 11 | Reinforcement Learning (Q-Learning) | [Lesson 10](https://youtube.com/playlist?list=PLZ6aye2WITFSSIT_2FuVPLOx2JvTESDPy&si=3fESd05ARhDfsXjG) |
-| 12 | Deep Learning – Perceptron and Adaline | [Lesson 11](https://youtube.com/playlist?list=PLZ6aye2WITFSSIT_2FuVPLOx2JvTESDPy&si=3fESd05ARhDfsXjG) |
-| 13 | Deep Learning – Artificial Neural Networks (MLP and RBF) | [Lesson 12](https://youtube.com/playlist?list=PLZ6aye2WITFSSIT_2FuVPLOx2JvTESDPy&si=3fESd05ARhDfsXjG) |
-| 14 | Deep Learning – Convolutional and Recurrent Neural Networks (CNN and RNN) | [Lesson 13](https://youtube.com/playlist?list=PLZ6aye2WITFSSIT_2FuVPLOx2JvTESDPy&si=3fESd05ARhDfsXjG) |
-| 15 | Deep Learning – Transfer Learning and Transformers | [Lesson 14](https://youtube.com/playlist?list=PLZ6aye2WITFSSIT_2FuVPLOx2JvTESDPy&si=3fESd05ARhDfsXjG) |
+| 9 | Unsupervised Learning – Dimensionality Reduction (Principal Component Analysis) | [Lesson 8](/assets/exams/IML/ML-08.pdf) |
+| 10 | Unsupervised Learning – Association Rules (Apriori Algorithm) | [Lesson 9](/assets/exams/IML/ML-09.pdf) |
+| 11 | Reinforcement Learning (Q-Learning) | [Lesson 10] |
+| 12 | Deep Learning – Perceptron and Adaline | [Lesson 11] |
+| 13 | Deep Learning – Artificial Neural Networks (MLP and RBF) | [Lesson 12] |
+| 14 | Deep Learning – Convolutional and Recurrent Neural Networks (CNN and RNN) | [Lesson 13] |
+| 15 | Deep Learning – Transfer Learning and Transformers | [Lesson 14] |
 | 16 | Review for Final Exam |  |
 
 ## Resources
 Below you can find past exam papers.
 <p style="line-height: 1.8;">
-  {% assign files = site.static_files | where_exp: "file", "file.path contains '/assets/exams/IML/'" %}
-  {% assign pdf_files = files | where_exp: "file", "file.extname == '.pdf'" %}
+  {% comment %} 1. Önce klasördeki tüm dosyaları al {% endcomment %}
+  {% assign folder_files = site.static_files | where_exp: "file", "file.path contains '/assets/exams/IML/'" %}
+  
+  {% comment %} 2. Sonra bu dosyalar içinden isminde "-e.pdf" geçenleri süz {% endcomment %}
+  {% assign final_files = folder_files | where_exp: "file", "file.name contains '-e.pdf'" %}
 
-  {% for file in pdf_files %}
+  {% for file in final_files %}
     <a href="{{ file.path | relative_url }}">{{ file.name | downcase }}</a>
     {% unless forloop.last %} | {% endunless %}
   {% endfor %}
