@@ -91,6 +91,6 @@ Senior computer scientist and academic leader with over 20 years of experience i
 * Permanent reviewer for TUBITAK on machine learning and NLP-based commercial R&D projects.
 
 ### Sci-Fi Author (Amazon KDP)
-* Author of the **"Artificial World Colony"** series, published globally on Amazon (AWC - The First Journey, AWC - The Blue Collapse)
+* Author of the **"Artificial World Colony"** series, published globally on Amazon (AWC - The First Journey, AWC - The Blue Collapse, and AWC - The Last Resistance)
 * Investigating the boundaries of algorithmic storytelling by bridging my technical research with my experience as a Sci-Fi novelist. I aim also to develop metrics to evaluate "machine creativity" and explore whether generative models can construct coherent, long-form narratives that rival human imagination.
 
