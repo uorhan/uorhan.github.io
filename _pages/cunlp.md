@@ -34,7 +34,9 @@ Collaborations with researchers and groups sharing similar interests are also hi
 
 - **Eren Demir (M.Eng. Student)** – Measuring semantic similarity in LLMs  
 
-- **Arda Mülayim (M.Eng. Student)** – Detecting hallucinations in LLMs  
+- **Arda Mülayim (M.Eng. Student)** – Detecting hallucinations in LLMs
+
+- **Dogus Saglamtundu (M.Eng. Student)** – RAG Systems
 
 - **Çağrı Sayallar (B.Sc. Student)** – BERT-based Turkish lemmatization  
 
