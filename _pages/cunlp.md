@@ -25,32 +25,32 @@ Collaborations with researchers and groups sharing similar interests are also hi
 - **Dr. Umut Orhan** – *Group Lead*  
   Research Interests: Natural Language Processing, Large Language Models, and Semantic Representation  
 
-- **Dr. B. Tahir Tahiroğlu** – *Turkish Linguist*  
+- **Dr. B. Tahir Tahiroglu** – *Turkish Linguist*  
   Focus: Turkish syntax, morphology, and linguistic resources for NLP  
 
 - **Ferhat Albayrak (Ph.D. Student)** – Evaluating reasoning capabilities of Large Language Models (LLMs)  
 
-- **Melisa Biçer (Ph.D. Student)** – Enhancing reasoning in LLMs through graph-based systems  
+- **Melisa Bicer (Ph.D. Student)** – Enhancing reasoning in LLMs through graph-based systems  
 
 - **Eren Demir (M.Eng. Student)** – Measuring semantic similarity in LLMs  
 
-- **Arda Mülayim (M.Eng. Student)** – Detecting hallucinations in LLMs
+- **Arda Mulayim (M.Eng. Student)** – Detecting hallucinations in LLMs
 
 - **Dogus Saglamtundu (M.Eng. Student)** – RAG Systems
 
-- **Çağrı Sayallar (B.Sc. Student)** – BERT-based Turkish lemmatization  
+- **Cagri Sayallar (B.Sc. Student)** – BERT-based Turkish lemmatization  
 
 ---
 
 ### Former Members
 
-- **Çağatay N. Tülü (Ph.D.)** – Developed the *SemSpace* semantic space model using WordNet relations  
+- **Cagatay N. Tulu (Ph.D.)** – Developed the *SemSpace* semantic space model using WordNet relations  
 
 - **Enis Arslan (Ph.D.)** – Focused on Turkish morphology and morphological parsing  
 
 - **Erhan Turan (Ph.D.)** – Designed a machine-readable dictionary for Turkish  
 
-- **Elif Gülfidan Dayıoğlu (Ph.D.)** – Worked on open-ended exam evaluation using SemSpace vectors and deep learning  
+- **Elif Gulfidan Dayioglu (Ph.D.)** – Worked on open-ended exam evaluation using SemSpace vectors and deep learning  
 
 
 ## Resources and Tools
