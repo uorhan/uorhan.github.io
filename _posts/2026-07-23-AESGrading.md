@@ -6,7 +6,7 @@ categories: RESEARCH
 tags: RESEARCH
 excerpt: "A deep dive into the recent findings of my graduate student's thesis, revealing why current AI models and the QWK metric fall short in grading open-ended exams."
 ---
-<img src="/images/projects/AES_Grading.jpg" width="100%"><br>
+<img src="/images/projects/AES-Grading.jpg" width="100%"><br>
 
 One of the greatest excitements in the education world in recent years is the idea of artificial intelligence automatically evaluating essays and articles in open-ended exams taken by millions of students[cite: 1]. However, the results of the master's thesis successfully defended today by my graduate student Eren Demir clearly reveal that neither the world nor the Turkish National Education system is yet ready for this technological leap[cite: 1].
 
