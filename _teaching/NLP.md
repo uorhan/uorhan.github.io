@@ -8,18 +8,40 @@ date: 2025-1-1
 ---
 
 ### Course Objectives
-In this course, the main goal is to define the methods and approaches used in Natural Language Processing.
+The primary objective of this course is to introduce classical Natural Language Processing (NLP) problems and explore their evolution. Students will learn the theoretical foundations of traditional approaches and transition to solving these problems using modern, locally-hosted Large Language Models (LLMs) via the Ollama ecosystem. The course heavily emphasizes engineering practices, strict structured output generation (JSON), evaluating model performance using standard statistical metrics (BLEU, ROUGE), and analyzing model limitations such as hallucinations and context window boundaries.
 
 ### Course Materials
-- Daniel Jurafsky and James H. Martin, *Speech and Language Processing: An Introduction to Natural Language Processing, Computational Linguistics, and Speech*, 2000.
+- Daniel Jurafsky and James H. Martin, *Speech and Language Processing* (3rd Edition Draft), 2024.
+- Official [Ollama Documentation](https://github.com/ollama/ollama) for local LLM deployment.
+- [Hugging Face NLP Course](https://huggingface.co/learn) and library documentations.
 
 ### Assessment
-40% Midterm (exam,tasks,etc.) + 60% Final (exam,tasks,etc.)
+40% (1 Personal Task) + 60% (3 Projects and Presentations)
 
 ### Prerequisites
-There is no formal prerequisite; however, taking the Theory of Computation (Automata Theory) course beforehand is recommended.
+Basic knowledge of Python programming and Machine Learning fundamentals is strongly recommended.
 
 ### Weekly Schedule
+
+| Week | Subjects | Note |
+|------|-----------|------|
+| 1 | Introduction to NLP & Text Preprocessing: Tokens vs. Words | [Lesson 1] |
+| 2 | Word Representation: From BoW & TF-IDF to Dense Vectors | [Lesson 2] |
+| 3 | Local LLMs (Ollama) Setup & Generation Parameters | [Lesson 3] |
+| 4 | Text Classification: Classical ML vs. LLM Prompting | [Lesson 4] |
+| 5 | Structured Generation: Forcing LLMs to output JSON | [Lesson 5] |
+| 6 | Information Extraction: Traditional NER vs. LLM Parsing | [Lesson 6] |
+| 7 | Midterm Review & Prompt Engineering Fundamentals | [Lesson 7] |
+| 8 | **Midterm Exam Week** | There is no exam for this course |
+| 9 | Hallucinations: Confabulation Analysis & Prompt Traps | [Lesson 8] |
+| 10 | Closed-Domain QA & Groundedness Tests | [Lesson 9] |
+| 11 | Machine Translation & Paraphrasing: Evaluation (BLEU/METEOR) | [Lesson 10] |
+| 12 | Text Summarization: Extractive vs. Abstractive (ROUGE Metrics) | [Lesson 11] |
+| 13 | Processing Large Documents: Chunking & Context Window Limits | [Lesson 12] |
+| 14 | Open Source Ecosystem, Hardware Limits, & Quantization (GGUF) | [Lesson 13] |
+| 15 | **Project Presentations** | <a href="/files/NLP-Projects">1. JSON Parsing - 2. Translation - 3. Summarization</a> |
+
+### OLD Schedule
 
 | Week | Subjects | Note |
 |------|-----------|------|
