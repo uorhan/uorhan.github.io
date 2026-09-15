@@ -39,7 +39,7 @@ Basic knowledge of Python programming and Machine Learning fundamentals is stron
 | 12 | Text Summarization: Extractive vs. Abstractive (ROUGE Metrics) | [Lesson 11] |
 | 13 | Processing Large Documents: Chunking & Context Window Limits | [Lesson 12] |
 | 14 | Open Source Ecosystem, Hardware Limits, & Quantization (GGUF) | [Lesson 13] |
-| 15 | **Project Presentations** | <a href="/files/NLP-Projects">1. JSON Parsing - 2. Translation - 3. Summarization</a> |
+| 15 | **Project Presentations** | <a href="/files/NLP-Projects">Descriptions of the projects</a> |
 
 ### OLD Schedule
 
