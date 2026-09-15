@@ -1,3 +1,8 @@
+---
+title: "NLP Project Task: 3 Projects"
+date: 2026-9-15
+---
+
 # NLP Course Projects (Fall Semester)
 
 This document outlines the three major projects for the Natural Language Processing course. All projects must be implemented using **local open-source LLMs via the Ollama ecosystem** and Python. Cloud APIs (like OpenAI) are strictly forbidden for these tasks. 
