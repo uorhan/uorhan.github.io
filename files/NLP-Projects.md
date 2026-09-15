@@ -12,7 +12,6 @@ Submissions should include a well-documented Jupyter Notebook (or Python scripts
 ---
 
 ## Project I: Structured Text Classification & Information Extraction
-**Permalink:** `/files/JSON-Parsing-task`
 
 ### Objective
 To move beyond conversational "black-box" LLM usage by forcing the model to generate strictly structured data that can be programmatically parsed and integrated into software systems.
@@ -28,7 +27,6 @@ You will use a local LLM to classify texts and extract specific entities from an
 ---
 
 ## Project II: Translation, Paraphrasing, and Metric Evaluation
-**Permalink:** `/files/Translation-Metrics-task`
 
 ### Objective
 To analyze the generative capabilities of LLMs in translation and style transfer, and to scientifically evaluate their output quality using traditional NLP metrics rather than subjective human evaluation.
@@ -44,7 +42,6 @@ Select a dataset containing source texts and their reference translations (or pa
 ---
 
 ## Project III: Long Document Summarization & Context Window Management
-**Permalink:** `/files/Summarization-task`
 
 ### Objective
 To understand and overcome the hardware limitations and context window boundaries of local Large Language Models when processing large documents.
