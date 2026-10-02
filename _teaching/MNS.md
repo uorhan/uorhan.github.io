@@ -28,18 +28,18 @@ None. Taking [Natural Language Processing](/teaching/NLP) in the fall semester i
 
 | Week | Subjects | Note |
 |------|-----------|------|
-| 1 | Introduction to Modern NLP Systems and API Ecosystem | Lesson 1 *(coming soon)* |
-| 2 | Vector Spaces, Embedding Models, and Semantic Search | Lesson 2 *(coming soon)* |
-| 3 | Vector Database Management and Text Chunking Strategies | Lesson 3 *(coming soon)* |
-| 4 | Implementation of RAG (Retrieval-Augmented Generation) Architecture | Lesson 4 *(coming soon)* |
-| 5 | RAG Systems Project Delivery and Application Development (UI/UX) | Lesson 5 *(coming soon)* · **[RAG Pipeline](/files/RAG-task) due** |
-| 6 | Open Source Language Models and the Hugging Face Ecosystem | Lesson 6 *(coming soon)* |
-| 7 | Dataset Preparation and Formatting for Language Models | Lesson 7 *(coming soon)* |
-| 8 | ** PASS ** |  |
-| 9 | Parameter-Efficient Fine-Tuning (PEFT) and the Math of LoRA | Lesson 8 *(coming soon)* |
-| 10 | Open Source Model Training (Fine-Tuning) on Local Hardware | Lesson 9 *(coming soon)* |
+| 1 | Introduction to Modern NLP Systems and API Ecosystem |  |
+| 2 | Vector Spaces, Embedding Models, and Semantic Search |  |
+| 3 | Vector Database Management and Text Chunking Strategies |  |
+| 4 | Implementation of RAG (Retrieval-Augmented Generation) Architecture |  |
+| 5 | RAG Systems Project Delivery and Application Development (UI/UX) |  |
+| 6 | Open Source Language Models and the Hugging Face Ecosystem |  |
+| 7 | Dataset Preparation and Formatting for Language Models | **[RAG Pipeline](/files/RAG-task) due**  |
+| 8 | **Midterm Week** — no exam for this course |  |
+| 9 | Parameter-Efficient Fine-Tuning (PEFT) and the Math of LoRA |  |
+| 10 | Open Source Model Training (Fine-Tuning) on Local Hardware |  |
 | 11 | **Delivery of Fine-Tuned Domain-Specific Models** | **[Fine-Tuning](/files/LoRA-task) due** |
-| 12 | Function Calling and Tool Use in Large Language Models | Lesson 10 *(coming soon)* |
-| 13 | Autonomous Agent Architectures and LangChain-LlamaIndex Frameworks | Lesson 11 *(coming soon)* |
+| 12 | Function Calling and Tool Use in Large Language Models |  |
+| 13 | Autonomous Agent Architectures and LangChain-LlamaIndex Frameworks |  |
 | 14 | **Agentic Workflows Project Delivery and Live Demos** | **[Agentic Workflows](/files/Agentic-task) due** |
 | 15 | **Delivery of Projects** |  |
