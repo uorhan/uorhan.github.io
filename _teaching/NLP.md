@@ -4,19 +4,22 @@ collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/NLP
 venue: "CuCEng"
-date: 2025-1-1
+date: 2026-09-15
 ---
 
 ### Course Objectives
-The primary objective of this course is to introduce classical Natural Language Processing (NLP) problems and explore their evolution. Students will learn the theoretical foundations of traditional approaches and transition to solving these problems using modern, locally-hosted Large Language Models (LLMs) via the Ollama ecosystem. The course heavily emphasizes engineering practices, strict structured output generation (JSON), evaluating model performance using standard statistical metrics (BLEU, ROUGE), and analyzing model limitations such as hallucinations and context window boundaries.
+The primary objective of this course is to introduce classical Natural Language Processing (NLP) problems and explore their evolution. Students will learn the theoretical foundations of traditional approaches, follow the path from n-gram language models to Transformers, and transition to solving these problems using modern, locally-hosted Large Language Models (LLMs) via the Ollama ecosystem. The course heavily emphasizes engineering practices, strict structured output generation (JSON), evaluating model performance using standard metrics (BLEU, METEOR, chrF, ROUGE), and analyzing model limitations such as hallucinations and context window boundaries.
 
 ### Course Materials
-- Daniel Jurafsky and James H. Martin, *Speech and Language Processing* (3rd Edition Draft), 2024.
+- Daniel Jurafsky and James H. Martin, *[Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)* (3rd Edition, latest online draft).
 - Official [Ollama Documentation](https://github.com/ollama/ollama) for local LLM deployment.
-- [Hugging Face NLP Course](https://huggingface.co/learn) and library documentations.
+- [Hugging Face LLM Course](https://huggingface.co/learn/llm-course) and library documentations.
 
 ### Assessment
-40% (1 Personal Task) + 60% (3 Projects and Presentations)
+- **40%** Personal Task <!-- TODO: add a short description or a link, e.g. /files/NLP-Personal-Task -->
+- **60%** Three Projects and Presentations (20% each) — see the [project descriptions](/files/NLP-Projects)
+
+There is no written midterm or final exam in this course.
 
 ### Prerequisites
 Basic knowledge of Python programming and Machine Learning fundamentals is strongly recommended.
@@ -25,53 +28,19 @@ Basic knowledge of Python programming and Machine Learning fundamentals is stron
 
 | Week | Subjects | Note |
 |------|-----------|------|
-| 1 | Introduction to NLP & Text Preprocessing: Tokens vs. Words | [Lesson 1] |
-| 2 | Word Representation: From BoW & TF-IDF to Dense Vectors | [Lesson 2] |
-| 3 | Local LLMs (Ollama) Setup & Generation Parameters | [Lesson 3] |
-| 4 | Text Classification: Classical ML vs. LLM Prompting | [Lesson 4] |
-| 5 | Structured Generation: Forcing LLMs to output JSON | [Lesson 5] |
-| 6 | Information Extraction: Traditional NER vs. LLM Parsing | [Lesson 6] |
-| 7 | Midterm Review & Prompt Engineering Fundamentals | [Lesson 7] |
-| 8 | **Midterm Exam Week** | There is no exam for this course |
-| 9 | Hallucinations: Confabulation Analysis & Prompt Traps | [Lesson 8] |
-| 10 | Closed-Domain QA & Groundedness Tests | [Lesson 9] |
-| 11 | Machine Translation & Paraphrasing: Evaluation (BLEU/METEOR) | [Lesson 10] |
-| 12 | Text Summarization: Extractive vs. Abstractive (ROUGE Metrics) | [Lesson 11] |
-| 13 | Processing Large Documents: Chunking & Context Window Limits | [Lesson 12] |
-| 14 | Open Source Ecosystem, Hardware Limits, & Quantization (GGUF) | [Lesson 13] |
-| 15 | **Project Presentations** | <a href="/files/NLP-Projects">Descriptions of the projects</a> |
+| 1 | Introduction to NLP & Text Preprocessing: Tokens vs. Words | Lesson 1 *(coming soon)* |
+| 2 | Word Representation: From BoW & TF-IDF to Dense Vectors | Lesson 2 *(coming soon)* |
+| 3 | Language Models: From N-grams to Transformers & Attention | Lesson 3 *(coming soon)* |
+| 4 | Local LLMs (Ollama): Setup, Hardware Limits, Quantization (GGUF) & Generation Parameters | Lesson 4 *(coming soon)* |
+| 5 | Text Classification & Prompt Engineering Fundamentals: Classical ML vs. LLM Prompting | Lesson 5 *(coming soon)* |
+| 6 | Structured Generation: Forcing LLMs to Output JSON | Lesson 6 *(coming soon)* |
+| 7 | Information Extraction: Traditional NER vs. LLM Parsing | Lesson 7 *(coming soon)* |
+| 8 | **Midterm Week** — no exam for this course | **Project I due** |
+| 9 | Hallucinations: Confabulation Analysis & Prompt Traps | Lesson 8 *(coming soon)* |
+| 10 | Closed-Domain QA & Groundedness Tests | Lesson 9 *(coming soon)* |
+| 11 | Machine Translation & Paraphrasing: Evaluation (BLEU, METEOR, chrF) | Lesson 10 *(coming soon)* |
+| 12 | Text Summarization: Extractive vs. Abstractive (ROUGE Metrics) | Lesson 11 *(coming soon)* · **Project II due** |
+| 13 | Processing Large Documents: Chunking & Context Window Limits | Lesson 12 *(coming soon)* |
+| 14 | Open Source Ecosystem: Model Families, Licenses & Benchmarks | Lesson 13 *(coming soon)* |
+| 15 | **Project Presentations** | **Project III due** · [Descriptions of the projects](/files/NLP-Projects) |
 
-### OLD Schedule
-
-| Week | Subjects | Note |
-|------|-----------|------|
-| 1 | Introduction to NLP: Concepts and terms | [Lesson 1](/assets/exams/NLP/NLP1.pdf) |
-| 2 | Text Normalization, Lemmatization, Parsing | [Lesson 2](/assets/exams/NLP/NLP2.pdf) |
-| 3 | N-Grams and Language Models | [Lesson 3](/assets/exams/NLP/NLP3.pdf) |
-| 4 | Corpus (Features and Analysis) | [Lesson 4](/assets/exams/NLP/NLP4.pdf) |
-| 5 | Part of Speech Tagging | [Lesson 5](/assets/exams/NLP/NLP5.pdf) |
-| 6 | Introduction to Semantic Analysis | [Lesson 6](/assets/exams/NLP/NLP6.pdf) |
-| 7 | Ambiguity | [Lesson 7](/assets/exams/NLP/NLP7.pdf) |
-| 8 | Midterm Exam |  |
-| 9 | Lexical Similarity | [Lesson 8](/assets/exams/NLP/NLP8.pdf) |
-| 10 | Semantic Similarity | [Lesson 9](/assets/exams/NLP/NLP9.pdf) |
-| 11 | Dialogue Systems, Question Answering | [Lesson 10](/assets/exams/NLP/NLP10.pdf) |
-| 12 | Machine Translation | [Lesson 11](/assets/exams/NLP/NLP11.pdf) |
-| 13 | Keyword Extraction, Document Summarization | [Lesson 12](/assets/exams/NLP/NLP12.pdf) |
-| 14 | Paraphrasing, Ontology Mapping | [Lesson 13](/assets/exams/NLP/NLP13.pdf) |
-| 15 | Project presentations | <a href="/files/RAG-task">RAG</a> - <a href="/files/LoRA-task">LoRA</a> - <a href="/files/Agentic-task">Agent</a> |
-
-## Resources
-Below you can find past exam papers.
-<p style="line-height: 1.8;">
-  {% comment %} 1. Önce klasördeki tüm dosyaları al {% endcomment %}
-  {% assign folder_files = site.static_files | where_exp: "file", "file.path contains '/assets/exams/NLP/'" %}
-  
-  {% comment %} 2. Sonra bu dosyalar içinden isminde "-e.pdf" geçenleri süz {% endcomment %}
-  {% assign final_files = folder_files | where_exp: "file", "file.name contains '-e.pdf'" %}
-
-  {% for file in final_files %}
-    <a href="{{ file.path | relative_url }}">{{ file.name | downcase }}</a>
-    {% unless forloop.last %} | {% endunless %}
-  {% endfor %}
-</p>
