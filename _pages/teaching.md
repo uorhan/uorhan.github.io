@@ -17,4 +17,4 @@ Below you can find a list of the courses I currently teach.
 * [Natural Language Processing](/teaching/NLP) (FALL)
 * [Theory of Computation](/teaching/ToC) (FALL)
 * [Discrete Mathematics](/teaching/DiM) (SPRING)
-* [Introduction to Machine Learning](/teaching/IML) (SPRING)
+* [Modern NLP Systems](/teaching/MNS) (SPRING)
