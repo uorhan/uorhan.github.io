@@ -28,19 +28,19 @@ Basic knowledge of Python programming and Machine Learning fundamentals is stron
 
 | Week | Subjects | Note |
 |------|-----------|------|
-| 1 | Introduction to NLP & Text Preprocessing: Tokens vs. Words | Lesson 1 *(coming soon)* |
-| 2 | Word Representation: From BoW & TF-IDF to Dense Vectors | Lesson 2 *(coming soon)* |
-| 3 | Language Models: From N-grams to Transformers & Attention | Lesson 3 *(coming soon)* |
-| 4 | Local LLMs (Ollama): Setup, Hardware Limits, Quantization (GGUF) & Generation Parameters | Lesson 4 *(coming soon)* |
-| 5 | Text Classification & Prompt Engineering Fundamentals: Classical ML vs. LLM Prompting | Lesson 5 *(coming soon)* |
-| 6 | Structured Generation: Forcing LLMs to Output JSON | Lesson 6 *(coming soon)* |
-| 7 | Information Extraction: Traditional NER vs. LLM Parsing | Lesson 7 *(coming soon)* |
-| 8 | **Midterm Week** — no exam for this course | **Project I due** |
-| 9 | Hallucinations: Confabulation Analysis & Prompt Traps | Lesson 8 *(coming soon)* |
-| 10 | Closed-Domain QA & Groundedness Tests | Lesson 9 *(coming soon)* |
-| 11 | Machine Translation & Paraphrasing: Evaluation (BLEU, METEOR, chrF) | Lesson 10 *(coming soon)* |
-| 12 | Text Summarization: Extractive vs. Abstractive (ROUGE Metrics) | Lesson 11 *(coming soon)* · **Project II due** |
-| 13 | Processing Large Documents: Chunking & Context Window Limits | Lesson 12 *(coming soon)* |
-| 14 | Open Source Ecosystem: Model Families, Licenses & Benchmarks | Lesson 13 *(coming soon)* |
-| 15 | **Project Presentations** | **Project III due** · [Descriptions of the projects](/files/NLP-Projects) |
+| 1 | Introduction to NLP & Text Preprocessing: Tokens vs. Words |  |
+| 2 | Word Representation: From BoW & TF-IDF to Dense Vectors |  |
+| 3 | Language Models: From N-grams to Transformers & Attention |  |
+| 4 | Local LLMs (Ollama): Setup, Hardware Limits, Quantization (GGUF) & Generation Parameters |  |
+| 5 | Text Classification & Prompt Engineering Fundamentals: Classical ML vs. LLM Prompting |  |
+| 6 | Structured Generation: Forcing LLMs to Output JSON |  |
+| 7 | Information Extraction: Traditional NER vs. LLM Parsing | **Project I due** |
+| 8 | **Midterm Week** — no exam for this course |  |
+| 9 | Hallucinations: Confabulation Analysis & Prompt Traps |  |
+| 10 | Closed-Domain QA & Groundedness Tests |  |
+| 11 | Machine Translation & Paraphrasing: Evaluation (BLEU, METEOR, chrF) |  |
+| 12 | Text Summarization: Extractive vs. Abstractive (ROUGE Metrics) | **Project II due** |
+| 13 | Processing Large Documents: Chunking & Context Window Limits |  |
+| 14 | Open Source Ecosystem: Model Families, Licenses & Benchmarks |  |
+| 15 | **Project Presentations** | **Project III due** |
 
