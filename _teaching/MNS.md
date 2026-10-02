@@ -2,7 +2,7 @@
 title: "Modern NLP Systems"
 collection: teaching
 type: "Undergraduate Course"
-permalink: /teaching/Modern-NLP-Systems
+permalink: /teaching/MNS
 venue: "CuCEng"
 date: 2027-02-01
 ---
