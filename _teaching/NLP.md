@@ -34,7 +34,7 @@ Basic knowledge of Python programming and Machine Learning fundamentals is stron
 | 4 | Local LLMs (Ollama): Setup, Hardware Limits, Quantization (GGUF) & Generation Parameters |  |
 | 5 | Text Classification & Prompt Engineering Fundamentals: Classical ML vs. LLM Prompting |  |
 | 6 | Structured Generation: Forcing LLMs to Output JSON |  |
-| 7 | Information Extraction: Traditional NER vs. LLM Parsing | **Project I due** |
+| 7 | Information Extraction: Traditional NER vs. LLM Parsing | [**Project I due**](/files/NLP-Project-1) |
 | 8 | **Midterm Week** — no exam for this course |  |
 | 9 | Hallucinations: Confabulation Analysis & Prompt Traps |  |
 | 10 | Closed-Domain QA & Groundedness Tests |  |
