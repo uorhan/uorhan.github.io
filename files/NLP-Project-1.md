@@ -1,6 +1,6 @@
 ---
 title: "NLP Project I: Structured Text Classification & Information Extraction"
-date: 2026-9-15
+date: 2026-11-08
 ---
 
 ## General Information
