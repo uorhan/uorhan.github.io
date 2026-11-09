@@ -7,7 +7,7 @@ date: 2026-11-09
 
 | Weight | Due | Defense |
 |--------|-----|---------|
-| 20% | Week 10 (November 22, 2026, 23:59) | Video presentation (see below) |
+| 20% | Week 10 (November 22, 2026, 23:59) | Video presentation and final oral exam (see below) |
 
 * **Tools:** The project must be implemented in Python using **local open-source LLMs via the Ollama ecosystem**. Cloud APIs (like OpenAI) are strictly forbidden.
 * **Team:** The project is done individually.
@@ -67,11 +67,11 @@ Since the originally planned date for the first presentations had to be postpone
 * Use the exact model, quantization level and parameters stated in your report.
 * Upload your video to **YouTube as "Unlisted"**. If you choose "Private", I cannot watch it; do not choose "Public" either. Do not send the link by e-mail; submit it through this form by **November 22, 2026, 23:59**:  [NLP-Project-1 Google Form](https://forms.gle/sdhhRnpkZBVQ8Dnc8). Only one submission per student is accepted. Your video must remain Unlisted and available until final grades are announced.
 * Reading prepared answers from a script is not acceptable. Speak naturally; short pauses and mistakes are fine.
-* After reviewing the videos, I may invite some of you to an in-person meeting for additional questions. Other questions from the list may also be asked in this meeting.
+* **Final oral exam (Week 15):** Every student has an in-person oral exam in Week 15. In this exam, you are responsible for **all** defense questions of Projects I, II and III, not only the ones you answered in your videos. Your answers are taken into account in your project grades.
 
 ### Defense Questions
 
-*Answer all questions in Section A and one question from each of Sections B–G.*
+*Answer all questions in Section A and one question from each of Sections B–G in your video. In the final oral exam, you are responsible for all questions.*
 
 #### A. Your Code and Results (all required)
 1. Choose one line from your JSON cleaning/parsing code or your evaluation code (not an import, print or comment line). Explain what it does and show what happens when it is removed.
