@@ -15,11 +15,12 @@ The primary objective of this course is to introduce classical Natural Language 
 - Official [Ollama Documentation](https://github.com/ollama/ollama) for local LLM deployment.
 - [Hugging Face LLM Course](https://huggingface.co/learn/llm-course) and library documentations.
 
+
 ### Assessment
-- **40%** – Presentation Task: Every student must present at least one course topic in class. Topics are taken in class on a volunteer basis, so you must attend the lectures to take a topic. A student who does not present any topic by the end of the semester receives zero for this component. After your presentation, upload your slides through the [upload form](https://forms.gle/KY55TRWjmc3bHwm48). If an additional task is given, upload the extended version again through the same form.
-- **60%** Three Projects (20% each), presented by video and defended in a final oral exam in Week 15 — see the [project descriptions](/files/NLP-Projects)
-  
-There is no written midterm or final exam in this course.
+There is no written midterm or final exam in this course. Grades are based on two components:
+
+- **40%** – Presentation Task: Every student must present at least one course topic in class. Topics are taken in class on a volunteer basis, so you must attend the lectures to take a topic. After your presentation, upload your slides through the [upload form](https://forms.gle/KY55TRWjmc3bHwm48). If an additional task is given, upload the extended version again through the same form. A student who does not present any topic by the end of the semester receives zero for this component.
+- **60%** – Three Projects (20% each): Each project is presented by video (see the [project descriptions](/files/NLP-Projects)). In Week 15, every student takes an in-person **final oral exam** covering all defense questions of Projects I, II and III, not only the ones answered in the videos. The project grades are given after the oral exam. A student who does not attend the oral exam receives zero for all three projects.
 
 ### Prerequisites
 Basic knowledge of Python programming and Machine Learning fundamentals is strongly recommended.
