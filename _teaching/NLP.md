@@ -17,8 +17,8 @@ The primary objective of this course is to introduce classical Natural Language 
 
 ### Assessment
 - **40%** – Presentation Task: Every student must present at least one course topic in class. Topics are taken in class on a volunteer basis, so you must attend the lectures to take a topic. A student who does not present any topic by the end of the semester receives zero for this component. After your presentation, upload your slides through the [upload form](https://forms.gle/KY55TRWjmc3bHwm48). If an additional task is given, upload the extended version again through the same form.
-- **60%** Three Projects and Presentations (20% each) — see the [project descriptions](/files/NLP-Projects)
-
+- **60%** Three Projects (20% each), presented by video and defended in a final oral exam in Week 15 — see the [project descriptions](/files/NLP-Projects)
+  
 There is no written midterm or final exam in this course.
 
 ### Prerequisites
@@ -39,8 +39,8 @@ Basic knowledge of Python programming and Machine Learning fundamentals is stron
 | 9 | Hallucinations: Confabulation Analysis & Prompt Traps |  |
 | 10 | Closed-Domain QA & Groundedness Tests | [**Project I due**](/files/NLP-Project-1) |
 | 11 | Machine Translation & Paraphrasing: Evaluation (BLEU, METEOR, chrF) |  |
-| 12 | Text Summarization: Extractive vs. Abstractive (ROUGE Metrics) | **Project II due** |
+| 12 | Text Summarization: Extractive vs. Abstractive (ROUGE Metrics) | [**Project II due**](/files/NLP-Project-2) |
 | 13 | Processing Large Documents: Chunking & Context Window Limits |  |
-| 14 | Open Source Ecosystem: Model Families, Licenses & Benchmarks |  |
-| 15 | **Project Presentations** | **Project III due** |
+| 14 | Open Source Ecosystem: Model Families, Licenses & Benchmarks |  [**Project III due**](/files/NLP-Project-3) |
+| 15 | **Final Oral Exam** (in person): all defense questions of Projects I–III | [Descriptions of the projects](/files/NLP-Projects) |
 
