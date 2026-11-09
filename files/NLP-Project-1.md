@@ -1,17 +1,19 @@
 ---
 title: "NLP Project I: Structured Text Classification & Information Extraction"
-date: 2026-11-08
+date: 2026-11-09
 ---
 
 ## General Information
 
 | Weight | Due | Defense |
 |--------|-----|---------|
-| 20% | Week 8 | Video presentation (see below) |
+| 20% | Week 10 (November 22, 2026, 23:59) | Video presentation (see below) |
 
 * **Tools:** The project must be implemented in Python using **local open-source LLMs via the Ollama ecosystem**. Cloud APIs (like OpenAI) are strictly forbidden.
 * **Team:** The project is done individually.
-* **Submission:** A well-documented Jupyter Notebook (or Python scripts) and a brief technical report (max. 4 pages) explaining your methodology and evaluation results.
+* **Submission:** By **November 22, 2026, 23:59**, submit the following through the submission form (see Rules below):
+  1. the YouTube link of your video,
+  2. a link to your well-documented Jupyter Notebook (or Python scripts) and your brief technical report (PDF, max. 4 pages) explaining your methodology and evaluation results. Share them as a GitHub repository or a Google Drive folder with "Anyone with the link can view" access. Do not change the code or the report after the deadline.
 * **Reproducibility:** State the exact model name, tag and quantization level (e.g., `llama3.1:8b-instruct-q4_K_M`), the Ollama version, and all generation parameters (temperature, seed, context length). Fix the `seed` wherever possible.
 
 ---
@@ -24,6 +26,9 @@ To move beyond conversational "black-box" LLM usage by forcing the model to gene
 
 You will use a local LLM to classify texts and extract specific entities from an unstructured dataset (e.g., IMDB reviews, Turkish news articles, or medical epikrisis reports).
 
+* **Gold labels for entities:** Entity extraction F1 requires gold entity labels. Many datasets (e.g., IMDB) have only class labels. In that case, you must manually annotate the entities in your evaluation samples and describe your annotation rules in the report.
+* **Matching entities in Turkish:** State your matching rule (exact or partial match) in the report. If you lowercase before matching, note that Python's `str.lower()` is not correct for Turkish: `'İSTANBUL'.lower()` gives `'i̇stanbul'` (with a combining dot) and `'IŞIK'.lower()` gives `'işik'`. Replace `İ` with `i` and `I` with `ı` before calling `lower()`.
+
 ## Engineering Constraints
 
 * **No Free-Text Allowed:** The model's output must be strictly in a valid JSON format (e.g., `{"category": "sports", "sentiment_score": 0.8, "entities": ["person A", "location B"]}`).
@@ -32,7 +37,8 @@ You will use a local LLM to classify texts and extract specific entities from an
   2. **Schema-constrained:** The Ollama `format` parameter is used with a JSON schema.
 * **Exception Handling:** In the prompt-only setting, LLMs often break formatting (e.g., adding markdown blocks like ` ```json ` or conversational text like "Here is your JSON..."). You must write Python code to clean the output, parse the JSON, and include `try-except` blocks to handle parsing failures gracefully.
 * **Evaluation:** Across at least 100 samples, report for both settings:
-  * JSON parsing success rate on the first try,
+  * Raw JSON parsing success rate: `json.loads` applied directly to the raw model output, **before** any cleaning,
+  * JSON parsing success rate **after** your cleaning code,
   * Schema validity rate (all required fields present with correct types),
   * Task accuracy (classification accuracy / F1 and entity extraction F1 against gold labels).
 * **Discussion:** Does schema-constrained decoding change task accuracy, not just format validity? Explain why or why not.
@@ -54,10 +60,12 @@ Since the originally planned date for the first presentations had to be postpone
 
 ### Rules
 
-* Length: at most **30 minutes**. Include timestamps for the three parts in your submission.
+* Length: at most **30 minutes**. Add timestamps for the three parts to the YouTube video description (e.g., "00:00 Code walkthrough", "09:30 Live tests", "16:45 Defense questions"), so that they appear as chapters in the video. In the submission form, give the start times of the live tests and the defense questions; the code walkthrough always starts at 00:00.
+* YouTube allows videos longer than 15 minutes only from verified accounts. Verify your account by phone in advance at youtube.com/verify.
+* You may record the video in several parts and join them, but the live tests must be shown without cuts, from running the code to the output.
 * Your **screen and voice** must be recorded throughout, and your **face must be visible** at least at the beginning of the video.
 * Use the exact model, quantization level and parameters stated in your report.
-* Upload your video to **YouTube as "Unlisted"**. If you choose "Private", I cannot watch it; do not choose "Public" either. Do not send the link by e-mail; submit it through this form by **November 22, 2026, 23:59**: [NLP-Project-1 Google Form](https://forms.gle/sdhhRnpkZBVQ8Dnc8). Only one submission per student is accepted.
+* Upload your video to **YouTube as "Unlisted"**. If you choose "Private", I cannot watch it; do not choose "Public" either. Do not send the link by e-mail; submit it through this form by **November 22, 2026, 23:59**:  [NLP-Project-1 Google Form](https://forms.gle/sdhhRnpkZBVQ8Dnc8). Only one submission per student is accepted. Your video must remain Unlisted and available until final grades are announced.
 * Reading prepared answers from a script is not acceptable. Speak naturally; short pauses and mistakes are fine.
 * After reviewing the videos, I may invite some of you to an in-person meeting for additional questions. Other questions from the list may also be asked in this meeting.
 
@@ -66,7 +74,7 @@ Since the originally planned date for the first presentations had to be postpone
 *Answer all questions in Section A and one question from each of Sections B–G.*
 
 #### A. Your Code and Results (all required)
-1. You should be able to explain any line of your code. What happens if a given line is removed?
+1. Choose one line from your JSON cleaning/parsing code or your evaluation code (not an import, print or comment line). Explain what it does and show what happens when it is removed.
 2. Did your AI assistant suggest anything that you decided not to use? Why not?
 3. Which of your results surprised you? How do you explain it?
 4. Explain the difference between the results you obtained with and without the `format` parameter.
@@ -90,7 +98,7 @@ Since the originally planned date for the first presentations had to be postpone
 
 #### E. Tokenization
 16. Why does the Turkish version of a text contain more tokens than its English version?
-17. How does your model's tokenizer split the word "kitaplarımızdan"? Show it.
+17. How does your model's tokenizer split the word "kitaplarımızdan"? Show it. (Ollama does not currently show how a text is split into tokens. Use the Hugging Face tokenizer of the same base model, e.g., `AutoTokenizer.from_pretrained("Qwen/Qwen2.5-7B-Instruct")`. Ollama's `prompt_eval_count` field gives only the number of tokens.)
 
 #### F. Prompt Strategies: "What if we had tried…?"
 18. How would your results change if you used 3-shot prompting instead of zero-shot? How would you select the examples?
