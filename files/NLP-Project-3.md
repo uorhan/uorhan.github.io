@@ -56,7 +56,7 @@ Like Project I, Project III is presented by video. You are required to record a 
 * You may record the video in several parts and join them, but the live tests must be shown without cuts, from running the code to the output.
 * Your **screen and voice** must be recorded throughout, and your **face must be visible** at least at the beginning of the video.
 * Use the exact model, quantization level and parameters stated in your report.
-* Upload your video to **YouTube as "Unlisted"**. If you choose "Private", I cannot watch it; do not choose "Public" either. Do not send the link by e-mail; submit it through this form by **December 20, 2026, 23:59**: <!-- TODO: form link -->. Only one submission per student is accepted. Your video must remain Unlisted and available until final grades are announced.
+* Upload your video to **YouTube as "Unlisted"**. If you choose "Private", I cannot watch it; do not choose "Public" either. Do not send the link by e-mail; submit it through this form by **December 20, 2026, 23:59**: [[Upload form]](https://forms.gle/QCYeYuzxJa5TgNsGA). Only one submission per student is accepted. Your video must remain Unlisted and available until final grades are announced.
 * Reading prepared answers from a script is not acceptable. Speak naturally; short pauses and mistakes are fine.
 * **Final oral exam (Week 15):** Every student has an in-person oral exam in Week 15. In this exam, you are responsible for **all** defense questions of Projects I, II and III, not only the ones you answered in your videos. Your answers are taken into account in your project grades.
 
