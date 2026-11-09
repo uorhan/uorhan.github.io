@@ -1,55 +1,40 @@
 ---
 title: "NLP Project Task: 3 Projects"
-date: 2026-9-15
+date: 2026-11-9
 ---
 
 ## Description
 
-This document outlines the three major projects for the Natural Language Processing course. All projects must be implemented using **local open-source LLMs via the Ollama ecosystem** and Python. Cloud APIs (like OpenAI) are strictly forbidden for these tasks. 
+This document outlines the three major projects for the Natural Language Processing course. All projects must be implemented using **local open-source LLMs via the Ollama ecosystem** and Python. Cloud APIs (like OpenAI) are strictly forbidden for these tasks.
 
-Submissions should include a well-documented Jupyter Notebook (or Python scripts) and a brief technical report explaining your methodology and evaluation results.
+## General Rules
+
+| Project | Topic | Weight | Due |
+|---------|-------|--------|-----|
+| I | [Structured Text Classification & Information Extraction](/files/NLP-Project-1) | 20% | Week 10 |
+| II | [Translation, Paraphrasing, and Metric Evaluation](/files/NLP-Project-2) | 20% | Week 12 |
+| III | [Long Document Summarization & Context Window Management](/files/NLP-Project-3) | 20% | Week 14 |
+
+* **Team:** Projects are done individually.
+* **Submission:** A well-documented Jupyter Notebook (or Python scripts) and a brief technical report (max. 4 pages) explaining your methodology and evaluation results.
+* **Reproducibility:** State the exact model name, tag and quantization level (e.g., `llama3.1:8b-instruct-q4_K_M`), the Ollama version, and all generation parameters (temperature, seed, context length). Fix the `seed` wherever possible.
+* **Presentation:** Each project is presented by video. The video requirements and the defense questions are given on each project's page.
+* **Final oral exam (Week 15):** Every student has an in-person oral exam in Week 15. In this exam, you are responsible for **all** defense questions of Projects I, II and III, not only the ones you answered in your videos. Your answers are taken into account in your project grades.
 
 ---
 
 ## Project I: Structured Text Classification & Information Extraction
 
-### Objective
-To move beyond conversational "black-box" LLM usage by forcing the model to generate strictly structured data that can be programmatically parsed and integrated into software systems.
-
-### Task Description
-You will use a local LLM to classify texts and extract specific entities from an unstructured dataset (e.g., IMDB reviews, Turkish news articles, or medical epikrisis reports). 
-
-### Engineering Constraints
-* **No Free-Text Allowed:** The model's output must be strictly in a valid JSON format (e.g., `{"category": "sports", "sentiment_score": 0.8, "entities": ["person A", "location B"]}`).
-* **Exception Handling:** LLMs often hallucinate or break formatting (e.g., adding markdown blocks like ` ```json ` or conversational text like "Here is your JSON..."). You must write Python code to clean the output, parse the JSON, and include `try-except` blocks to handle parsing failures gracefully.
-* **Evaluation:** Calculate and report your JSON parsing success rate (how many prompts resulted in a successfully parsed JSON on the first try) across at least 100 samples.
+Project I has its own page with the full description, the video submission rules and the defense questions: [Project I](/files/NLP-Project-1)
 
 ---
 
 ## Project II: Translation, Paraphrasing, and Metric Evaluation
 
-### Objective
-To analyze the generative capabilities of LLMs in translation and style transfer, and to scientifically evaluate their output quality using traditional NLP metrics rather than subjective human evaluation.
-
-### Task Description
-Select a dataset containing source texts and their reference translations (or paraphrased versions). Instruct the local LLM to translate the text or rewrite it in a different tone (e.g., from informal to academic).
-
-### Engineering Constraints
-* **Metric Calculation:** You must computationally evaluate the LLM's outputs against the ground-truth reference texts using **BLEU** and **METEOR** score libraries in Python (e.g., NLTK or Hugging Face `evaluate`).
-* **Hyperparameter Analysis:** Run the same task using at least three different `Temperature` values (e.g., 0.1, 0.7, 1.2). 
-* **Deliverable:** Plot a graph showing how changing the temperature affects the BLEU/METEOR scores and write a brief analysis discussing the trade-off between determinism and creativity.
+Project II has its own page with the full description, the video submission rules and the defense questions: [Project II](/files/NLP-Project-2)
 
 ---
 
 ## Project III: Long Document Summarization & Context Window Management
 
-### Objective
-To understand and overcome the hardware limitations and context window boundaries of local Large Language Models when processing large documents.
-
-### Task Description
-You are given a long document (e.g., a book chapter, a long research paper, or a financial report) that significantly exceeds the context window (token limit) of your chosen local model. You must design a pipeline to summarize the entire text without losing critical information.
-
-### Engineering Constraints
-* **Chunking Strategy:** You must implement a "Map-Reduce" style algorithm. Write Python code to split the document into semantically logical chunks (e.g., by paragraphs or token limits) that fit into the context window.
-* **Pipeline Execution:** Summarize each chunk individually (Map phase), and then pass the combined summaries back to the LLM to generate a final master summary (Reduce phase).
-* **Evaluation:** Compare your final generated summary against a human-written reference summary using **ROUGE** metrics (ROUGE-1, ROUGE-2, and ROUGE-L). Discuss the "Lost in the Middle" phenomenon and whether your chunking strategy mitigated it.
+Project III has its own page with the full description, the video submission rules and the defense questions: [Project III](/files/NLP-Project-3)
