@@ -52,7 +52,7 @@ Like Project I, Project II is presented by video. You are required to record a *
 
 * Length: at most **30 minutes**. Add timestamps for the three parts to the YouTube video description (e.g., "00:00 Code walkthrough", "09:30 Live tests", "16:45 Defense questions"), so that they appear as chapters in the video. In the submission form, give the start times of the live tests and the defense questions; the code walkthrough always starts at 00:00.
 * YouTube allows videos longer than 15 minutes only from verified accounts. Verify your account by phone in advance at youtube.com/verify.
-<!-- TODO: video editing rule — same option as Project I -->
+* You may record the video in several parts and join them, but the live tests must be shown without cuts, from running the code to the output.
 * Your **screen and voice** must be recorded throughout, and your **face must be visible** at least at the beginning of the video.
 * Use the exact model, quantization level and parameters stated in your report.
 * Upload your video to **YouTube as "Unlisted"**. If you choose "Private", I cannot watch it; do not choose "Public" either. Do not send the link by e-mail; submit it through this form by **December 6, 2026, 23:59**: <!-- TODO: form link -->. Only one submission per student is accepted. Your video must remain Unlisted and available until final grades are announced.
