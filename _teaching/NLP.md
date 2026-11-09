@@ -16,7 +16,7 @@ The primary objective of this course is to introduce classical Natural Language 
 - [Hugging Face LLM Course](https://huggingface.co/learn/llm-course) and library documentations.
 
 ### Assessment
-- **40%** Personal Task <!-- TODO: add a short description or a link, e.g. /files/NLP-Personal-Task -->
+- **40%** – Presentation Task: Every student must present at least one course topic in class. Topics are taken in class on a volunteer basis, so you must attend the lectures to take a topic. A student who does not present any topic by the end of the semester receives zero for this component. After your presentation, upload your slides through the [upload form](https://forms.gle/KY55TRWjmc3bHwm48). If an additional task is given, upload the extended version again through the same form.
 - **60%** Three Projects and Presentations (20% each) — see the [project descriptions](/files/NLP-Projects)
 
 There is no written midterm or final exam in this course.
@@ -34,10 +34,10 @@ Basic knowledge of Python programming and Machine Learning fundamentals is stron
 | 4 | Local LLMs (Ollama): Setup, Hardware Limits, Quantization (GGUF) & Generation Parameters |  |
 | 5 | Text Classification & Prompt Engineering Fundamentals: Classical ML vs. LLM Prompting |  |
 | 6 | Structured Generation: Forcing LLMs to Output JSON |  |
-| 7 | Information Extraction: Traditional NER vs. LLM Parsing | [**Project I due**](/files/NLP-Project-1) |
+| 7 | Information Extraction: Traditional NER vs. LLM Parsing | |
 | 8 | **Midterm Week** — no exam for this course |  |
 | 9 | Hallucinations: Confabulation Analysis & Prompt Traps |  |
-| 10 | Closed-Domain QA & Groundedness Tests |  |
+| 10 | Closed-Domain QA & Groundedness Tests | [**Project I due**](/files/NLP-Project-1) |
 | 11 | Machine Translation & Paraphrasing: Evaluation (BLEU, METEOR, chrF) |  |
 | 12 | Text Summarization: Extractive vs. Abstractive (ROUGE Metrics) | **Project II due** |
 | 13 | Processing Large Documents: Chunking & Context Window Limits |  |
